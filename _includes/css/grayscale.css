@@ -117,17 +117,22 @@ a:focus {
     transition: background .3s ease-in-out;
 }
 
-.nav li a:hover {
+/* .nav li a:hover {
     font-size: 120%;
     backgorund-color: none;
-}
+} */
 
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
-.navbar-custom .nav li a.active {
+.navbar-custom .nav li a:active {
     outline: 0;
     color:#F09E55;
-    
+    font-size: 120%;
+    background-color: none;
+}
+
+li a:active {
+    color: #F09E55;
 }
 
 @media(min-width:767px) {
