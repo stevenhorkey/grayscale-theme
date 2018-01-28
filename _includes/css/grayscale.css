@@ -34,6 +34,18 @@ p {
     line-height: 1.5;
 }
 
+h2 {
+    color: rgb(187, 182, 162);
+}
+
+.indent {
+    text-indent: 3em;
+}
+
+.italic {
+    font-style: italic;
+}
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
@@ -299,17 +311,13 @@ li a:active {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 200px;
+        padding-top: 100px;
     }
 
     .download-section {
         padding: 100px 0;
     }
 
-    #map {
-        height: 400px;
-        margin-top: 250px;
-    }
 }
 
 .btn {

@@ -1,2 +1,3 @@
 {% include css/bootstrap.min.css %}
+{% include css/typeface.css %}
 {% include css/grayscale.css %}
