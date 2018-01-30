@@ -18,13 +18,11 @@ social:
     url: https://twitter.com/memeandmeaning
   - title: facebook
     url: https://facebook.com/memeandmeaning
-  - title: stack-overflow
+  - title: youtube
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
+  - title: email
     url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-
+    
 # Build settings
 markdown: kramdown
 permalink: pretty

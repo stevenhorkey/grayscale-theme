@@ -34,6 +34,10 @@ p {
     line-height: 1.5;
 }
 
+dl {
+    font-size: 18px;
+}
+
 h2 {
     color: rgb(187, 182, 162);
 }
@@ -110,6 +114,12 @@ a:focus {
     padding: 0 16px;
 }
 
+@media screen and (max-width: 1199px) {
+    .on_life_text {
+        display: none;
+    }
+}
+
 .brand-tleft:hover {
     font-size: 126%
 }
@@ -173,7 +183,7 @@ li a:active {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(/img/imgbig.jpg) no-repeat bottom center scroll;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1)), url(/img/imgbig.jpg) no-repeat bottom center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -290,6 +300,7 @@ li a:active {
 
 .content-section {
     padding-top: 100px;
+    height: 100vh;
 }
 
 .download-section {
@@ -307,6 +318,7 @@ li a:active {
 
 .contact-section {
     height: 80vh;
+    margin-top: 100px;
 }
 
 @media(min-width:767px) {
