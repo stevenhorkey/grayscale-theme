@@ -4,8 +4,6 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact</h2>
                 <p>Dolor reprehenderit repellendus, optio labore odio at tempore debitis nisi. Quasi debitis tenetur eaque molestias non porro odio sapiente.</p>
-                <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
-                </p>
                 <ul class="list-inline banner-social-buttons">
                     {% for network in site.social %}
                     <li>
@@ -13,6 +11,42 @@
                     </li>
                     {% endfor %}
                 </ul>
+                <br>
+                <br>
+                <ul class="list-inline banner-social-buttons">
+                    <li>
+                        <a href="#" style="border: none;" class="btn btn-default btn-lg"><i class="fa fa-envelope-o"></i> <span class="network-name">EMAIL</span></a>
+                    </li>
+                </ul>   
+                <form class="form" id="contactform" action="//formspree.io/admin@memeandmeaning.com" method="POST">
+                    <div class="row">
+                        <div class="col-md-6 col-xs-12">
+                            <fieldset class="field">
+                            <label class="label" for="name"><span class="label-content"></span></label>
+                            <input class="input" type="text" name="name" placeholder="Name" id="name" required>
+                            </fieldset>
+                        </div>
+                        <div class="col-md-6 col-xs-12">
+                            <fieldset class="field">
+                            <label class="label" for="_replyto"><span class="label-content"></span></label>
+                            <input class="input" type="email" name="_replyto" placeholder="example@domain.com" id="_replyto" required>
+                            </fieldset>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <fieldset class="field">
+                            <label class="label" for="message"><span class="label-content"></span></label>
+                            <textarea class="input" name="message" rows="1" placeholder="Message" id="message" required></textarea>
+                            </fieldset>
+                            <input class="hidden" type="text" name="_gotcha" style="display:none">
+                            <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
+                            <fieldset class="field">
+                            <input class="button submit" type="submit" value="Send">
+                            </fieldset>
+                        </div>
+                    </div>   
+                </form>
             </div>
         </div>
     </section>

@@ -6,6 +6,9 @@
                     <h2>Content</h2>
                     <p></p>
                     <a href="" class="btn btn-default btn-lg">Content</a>
+                    {% if page.slider %}
+                        {% include slider.html height="50" unit="%" transition="slide" duration="7" %}
+                    {% endif %}
                 </div>
             </div>
         </div>
