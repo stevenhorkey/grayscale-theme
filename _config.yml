@@ -28,17 +28,18 @@ social:
 markdown: kramdown
 permalink: pretty
 
-#slider
+# Slider
 slider:
   text_color: white
   shadow_color: black
   slides: 
-    - image: /uploads/slider/ganapathy-kumar-93498.jpg
+    - image: /img/introimgbig.jpg
       slide_html:
-    - image: /uploads/slider/samuel-zeller-356272.jpg
+    - image: /img/tree_jungle.jpg
       slide_html: "<h3>La Passione 1/2</h3>Shirley, do you own a Ferrari?"
-    - image: /uploads/slider/samuel-zeller-356338.jpg
+    - image: /img/downloads-bg.jpg
       slide_html: "<h3>La Passione 2/2</h3>Yes, my life is your dream."
-    - image: /uploads/slider/ricardo-gomez-angel-180819.jpg
+    - image: /img/justin-shuler.jpg
       slide_html:
+
 
