@@ -214,6 +214,28 @@ li a:active {
     -o-background-size: cover;
 }
 
+.post-page-title{
+    margin: 200px 0;
+}
+
+.post-card {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)) , url('../../img/justin-shuler.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    width: 46%;
+    height: 200px;
+    margin: 12px;
+}
+
+.post-img-title {
+    color: #efecdb;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 200px;
+}
+
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;

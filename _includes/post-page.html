@@ -1,0 +1,26 @@
+<!-- Post Header -->
+<header class="intro-posts">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    
+                    <h1 class="post-page-title">Posts<br></h1>
+            
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    
+                    {% for post in site.posts %}
+                        <div class="col-sm-6 col-xs-12 post-card">
+                            <a class="post-img-title" href="{{ post.url }}">{{ post.title }}</a>
+                        </div>
+                    {% endfor %}
+            
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
