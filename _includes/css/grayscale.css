@@ -77,7 +77,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #F09E55;
 }
 
 .light {
@@ -112,7 +112,7 @@ a:focus {
 }
 
 .brand-tleft {
-    font-size: 20px;
+    font-size: 20px; 
 }
 
 .on_life_text {
@@ -129,7 +129,10 @@ a:focus {
 }
 
 .brand-tleft:hover {
-    font-size: 126%
+    font-size: 130%;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
 .navbar-custom a {
@@ -151,6 +154,10 @@ a:focus {
 .nav li a:hover {
     font-size: 120%;
     background-color: none;
+    color: #F09E55;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
 .navbar-custom .nav li a:focus,
@@ -215,7 +222,9 @@ li a:active {
 }
 
 .post-page-title{
-    margin: 200px 0;
+    /* margin: 200px 0; */
+    height: 50vh;
+    vertical-align: middle;
 }
 
 .post-card {
@@ -234,6 +243,16 @@ li a:active {
     text-transform: uppercase;
     text-align: center;
     line-height: 200px;
+}
+
+.post-style{
+    text-align: justify;
+    /* background: rgba(0, 0, 0, 0.5); */
+
+}
+
+.post-img{
+    width: 100%;
 }
 
 .intro .intro-body {
