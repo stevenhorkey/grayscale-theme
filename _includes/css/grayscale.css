@@ -222,8 +222,8 @@ li a:active {
 }
 
 .post-page-title{
-    /* margin: 200px 0; */
-    height: 50vh;
+    margin: 200px 0;
+    /* height: 50vh; */
     vertical-align: middle;
 }
 
@@ -246,10 +246,29 @@ li a:active {
 }
 
 .post-style{
+    color: black;
+    padding:2% 7% 7% 7%;
     text-align: justify;
+    background: white;
+    
     /* background: rgba(0, 0, 0, 0.5); */
-
 }
+.post-style>p{
+    color: black;
+    /* padding: 0 7%; */
+    /* text-align: justify; */
+    /* background: white; */
+}
+.post-meta{
+    font-size: 14px;
+    font-style: italic;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.post-page-head{
+    height: 100vh;
+}
+
 
 .post-img{
     width: 100%;
@@ -374,7 +393,7 @@ li a:active {
     height: 100vh;
     padding: 50px 0;
     color: #efecdb;
-    background: linear-gradient(rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0) ), url(/img/tree_jungle.jpg) no-repeat center center scroll;
+    background: linear-gradient(rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0) ), url(/img/water-drops.gif) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
