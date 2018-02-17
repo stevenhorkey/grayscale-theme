@@ -14,11 +14,19 @@
                 <div class="col-md-8 col-md-offset-2">
                     
                     {% for post in site.posts %}
+                        {% assign currentdate = post.date | date: "%B %Y" %}
+                        {% if currentdate != date %}
+                            {% unless forloop.first %}</ul>{% endunless %}
+                            <!-- <div class="row"> -->
+                                <h4 class="post-date-heads"  id="y{{post.date | date: "%B %Y"}}">{{ currentdate }}</h4>
+                            <!-- </div> -->
+                            {% assign date = currentdate %}
+                        {% endif %}
                         <div class="col-sm-6 col-xs-12 post-card">
                             <a class="post-img-title" href="{{ post.url }}">{{ post.title }}</a>
                         </div>
                     {% endfor %}
-            
+
                 </div>
             </div>
         </div>

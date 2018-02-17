@@ -227,6 +227,12 @@ li a:active {
     vertical-align: middle;
 }
 
+.post-date-heads{
+    margin: 5px 0;
+    clear: both;
+    padding: 12px 0;
+}
+
 .post-card {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)) , url('../../img/justin-shuler.jpg');
     background-position: center;
@@ -262,8 +268,10 @@ li a:active {
 .post-meta{
     font-size: 14px;
     font-style: italic;
-    margin-bottom: 70px;
+    margin-top: 8px;
+    margin-bottom: 56px;
     text-align: center;
+    color: grey !important;
 }
 .post-page-head{
     height: 100vh;
