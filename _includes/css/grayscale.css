@@ -225,6 +225,20 @@ li a:active {
     -o-background-size: cover;
 }
 
+.intro-essays{
+    display: table;
+    width: 100%;
+    height: 100vh;
+    padding: 100px 0;
+    text-align: center;
+    color: #efecdb;
+    background: linear-gradient(rgba(0, 0, 0, 0.397), rgba(0, 0, 0, 0.411)), url(/img/forest-river.jpg) no-repeat bottom center fixed;
+    background-color: {{ site.color.primary-dark }};
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 .post-page-title{
     margin: 200px 0;
     /* height: 50vh; */
@@ -544,7 +558,8 @@ footer {
 }
 
 footer p {
-    font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;    color: #efecdb;
+    font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;    
+    color: #efecdb;
     margin: 0;
     font-size: 16px;
 }
