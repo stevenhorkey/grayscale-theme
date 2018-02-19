@@ -42,6 +42,9 @@ p {
     color: #efecdb;
 }
 
+#about {
+    padding-top: 25px;
+}
 .about-text{
     text-align: center;
 }
