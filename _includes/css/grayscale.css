@@ -252,6 +252,7 @@ li a:active {
     margin: 5px 0;
     clear: both;
     padding: 12px 0;
+    font-weight: 600;
 }
 
 .post-card {
@@ -301,6 +302,7 @@ li a:active {
 
 .post-img{
     width: 100%;
+
 }
 
 .intro .intro-body {
@@ -507,6 +509,77 @@ ul.banner-social-buttons li {
     }
 }
 
+/* Social Share Buttons */
+ul.share-buttons{
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul.share-buttons li{
+    display: inline;
+  }
+  
+  ul.share-buttons .sr-only{
+    position: absolute;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0;
+    border: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+  }
+
+/* Email Signup Form - MailChimp */
+#mc_embed_signup{
+    background:#000000;
+    clear:left;
+    font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;    
+    padding: 10px 0;
+    height: 305px;
+    /* margin: 20px 0; */
+}
+#mc_embed_signup h2{
+    margin: 0;
+    color: #F09E55;
+    font-size: 270%;
+    text-align: justify;
+    display: inline;
+}
+#mc_embed_signup span{
+    text-align: justify;
+    font-size: 21px;
+}
+#mc_embed_signup .indicates-required {
+    /* width: 50% !important; */
+    text-align: left;
+    font-weight: lighter;
+}
+#mc_embed_signup input{
+    /* width: 50% !important; */
+    padding: 4px 0 !important;
+    color: black;
+    font-weight: normal;
+    border-radius: 6px;
+    background-color: #f5f3ea;
+}
+#mc_embed_signup .button {
+    background-color:  #F09E55;
+    color: black;
+    margin-top: 1%;
+    border-radius: 6px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1;
+    width: 96%;
+    /* width: 48% !important; */
+}
+#mc_embed_signup .mc-field-group {
+    padding-bottom: 1%;
+    font-weight: lighter;
+    padding-top: 1%;
+}
+
 /* Contact Form */
 
 .email-title {
@@ -550,7 +623,8 @@ input[type = submit] {
     border:none;
     padding: 8px 24px;
     color: black;
-    font-size: 16px ;
+    font-size: 16px;
+    font-weight: normal;
 }
 
 /* Footer */
