@@ -223,7 +223,7 @@ li a:active {
 .intro-posts {
     display: table;
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     padding: 100px 0;
     text-align: center;
     color: #efecdb;
@@ -238,7 +238,7 @@ li a:active {
 .intro-essays{
     display: table;
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     padding: 100px 0;
     text-align: center;
     color: #efecdb;
@@ -253,6 +253,10 @@ li a:active {
     position: relative;
     vertical-align: middle;
     top: 22%;
+}
+.post-page-position{
+    position: relative;
+    top: 22vh;
 }
 
 .post-date-heads{
@@ -564,18 +568,18 @@ ul.banner-social-buttons li {
     font-weight: bold;
     text-transform: uppercase;
     line-height: 1;
-    width: 96%;
+    width: 100%;
     /* width: 48% !important; */
 }
 #mc_embed_signup .mc-field-group {
     padding-bottom: 1%;
     font-weight: lighter;
     padding-top: 1%;
+    width: 100%;
 }
 #mc_embed_signup form{
     padding: 10px 0
 }
-
 
 /* Contact Form */
 

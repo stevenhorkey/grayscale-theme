@@ -3,7 +3,7 @@ title: Meme and Meaning
 email: admin@memeandmeaning.com
 url: https://memeandmeaning.com
 author: Steven Horkey
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Musings on all things related to life and what it takes to live it well. Free content and resources on science, psychology, philosophy, and consciousness."
 timezone: America/Phoenix
 
 # Footer settings
@@ -22,4 +22,7 @@ social:
     
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title/
+
+plugins: 
+  - jekyll-sitemap
