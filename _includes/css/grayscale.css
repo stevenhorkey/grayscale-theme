@@ -59,8 +59,25 @@ p {
 }
 
 dl {
-    font-size: 20px;
+    font-size: 18px;
     color: #efecdb;
+}
+
+.headshot{
+    width: 250px;
+    border-radius: 150px;
+    border: 5px inset #efecdb;
+    padding: 5px;
+    position: relative;
+    left: 7%;
+    transition: filter .5s ease-in-out;
+    -webkit-filter: grayscale(50%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(50%); /* FF 35+ */
+}
+
+.headshot:hover{
+    -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(0%); /* FF 35+ */
 }
 
 h2 {
@@ -282,6 +299,14 @@ li a:active {
     text-transform: uppercase;
     text-align: center;
     line-height: 200px;
+}
+
+.post-headshot{
+    width: 40px;
+    display: inline;
+    border-radius: 150px;
+    border: grey 1px solid;
+    margin-right: 12px;
 }
 
 .post-style{
