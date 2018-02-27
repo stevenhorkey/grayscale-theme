@@ -1,0 +1,36 @@
+<div class="row post-page-position">
+    <div class="col-md-8 col-md-offset-2">
+        
+        {% for post in site.posts %}
+            {% assign currentdate = post.date | date: "%B %Y" %}
+            {% if currentdate != date %}
+                {% unless forloop.first %}</ul>{% endunless %}
+                <!-- <div class="row"> -->
+                    <h4 class="post-date-heads"  id="y{{post.date | date: "%B %Y"}}">{{ currentdate }}</h4>
+                <!-- </div> -->
+                {% assign date = currentdate %}
+            {% endif %}
+            <div class="col-sm-6 col-xs-12 post-card">
+                <a class="post-img-title" href="{{ post.url }}">{{ post.title }}</a>
+            </div>
+            <!-- <div class="row">
+                <div id="post-content" class="col-xs-12">
+                    <img class="post-img" alt="{{ page.alt-image }}" src="{{ page.image }}"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 ">
+                    <div class="post-style">
+                        <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+                        <!-- <div class="addthis_inline_share_toolbox"></div> -->
+                        <p class="post-meta"><img class="post-headshot" src="../img/steven.jpg"/>{{ page.title }} | Published on {{ page.date | date: '%B %d, %Y' }} by Steven Horkey | Photo by {{ page.photographer }}</p>
+                        
+                        {{ content }}
+
+                        <img class="signiture" src="/img/signiture.png">
+                    </div>
+                </div>
+            </div> -->
+        {% endfor %}
+    </div>
+</div>

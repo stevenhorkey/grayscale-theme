@@ -87,9 +87,17 @@ h2 {
 .indent {
     text-indent: 3em;
 }
-
+.no-indent{
+    text-indent: 0;
+}
 .italic {
     font-style: italic;
+}
+.bold{
+    font-weight: 500;
+}
+.text-center{
+    text-align: center;
 }
 
 @media(min-width:767px) {
@@ -314,6 +322,7 @@ li a:active {
     padding:2% 7% 7% 7%;
     text-align: justify;
     background: white;
+    margin-bottom: 50px;
     
     /* background: rgba(0, 0, 0, 0.5); */
 }
@@ -464,7 +473,7 @@ li a:active {
 }
 
 .content-section-links {
-    margin-top: 35%;
+    margin-top: 30%;
 }
 
 .create-section {
