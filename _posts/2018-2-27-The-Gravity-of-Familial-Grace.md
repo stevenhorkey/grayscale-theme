@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: blog
 title: 'The Gravity of Grace'
+url-blurb: 'the-gravity-of-grace'
 date: 2018-02-27
 image: 'https://images.unsplash.com/photo-1476370648495-3533f64427a2?ixlib=rb-0.3.5&s=04b7e5ef56be9c371cb21001068c912c&auto=format&fit=crop&w=2850&q=80'
 alt-image: 'Photo by Mathew MacQuarrie on Unsplash'

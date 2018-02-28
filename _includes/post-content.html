@@ -4,36 +4,51 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 post-page-head">
-                    <div class="post-page-title">
+                    <div class="blog-title">
                         <h1>Blog</h1>
                         <p class="intro-text"></p><br>
-                        <a href="#post-content" class="btn btn-circle page-scroll">
+                        <!-- <a href="#post-content" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
-                        </a>
+                        </a> -->
                     </div>
                 </div>
             </div>
-            {% for page in site.posts %}
-        
-                <div class="row">
-                    <div id="post-content" class="col-md-8 col-md-offset-2">
-                        <img class="post-img" alt="{{ page.alt-image }}" src="{{ page.image }}"/>
+            {% for post in site.posts %}
+                {% assign currentdate = post.date | date: "%B %Y" %}
+                {% if currentdate != date %}
+                {% unless forloop.first %}</div>{% endunless %}
+                <h2 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h2>
+                <div>
+                {% assign date = currentdate %}
+                {% endif %}
+                <div id="{{ post.url }}">
+                    <div class="row">
+                        <div id="post-content" class="col-md-8 col-md-offset-2">
+                            <img class="post-img" alt="{{ post.alt-image }}" src="{{ post.image }}"/>
+                        </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 ">
-                        <div class="post-style">
-                            
-                            <p class="post-meta"><img class="post-headshot" src="../img/steven.jpg"/>{{ page.title }} | Published on {{ page.date | date: '%B %d, %Y' }} by Steven Horkey | Photo by {{ page.photographer }}</p>
-                            <p class="italic text-center no-indent">{{ page.title }}</p>
-                            
-                            {{ page.content }}
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 ">
+                            <div class="post-style">
+                                
+                                <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Published on {{ post.date | date: '%B %d, %Y' }} by Steven Horkey || Photo by {{ post.photographer }}</p>
+                                
+                                <h4 class="post-title text-center no-indent">{{ post.title }}</h4>
+                                <p></p><!--This is only to indent the first paragraph-->
+                                {{ post.content }}
 
-                            <img class="signiture" src="/img/signiture.png">
+                                <img class="signiture" src="/img/signiture.png">
+                                <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
+                                <p>{{ site.url }}{{ page.url }}{{ post.url }}</p>
+                                <p></p>
+                                <p></p>
+                            </div>
                         </div>
                     </div>
                 </div>
                 
+                {% if forloop.last %}</div>{% endif %}
+                    
             {% endfor %}
         </div>
     </div>

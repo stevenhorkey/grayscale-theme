@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: blog
 title: '12 Peace of Mind'
 date: 2017-11-27
 image: "/img/justin-shuler.jpg"
 photographer: Justin Shuler
 category: Psychology
 description: 
+published: false
 ---
 
 Why do we do what we do? Why have we done what we've done only to arrive at the place we are in this very moment? The answer to these questions surely depends on the perspective you are coming from, but in perhaps the truest sense and from what I can collect in the process of observing myself, everything we do, and I mean absolutely everything that we do in life, comes down to the way in which we want to feel. It comes down to generating the emotions from the experiences we seek, and the behaviors we thus act upon. 

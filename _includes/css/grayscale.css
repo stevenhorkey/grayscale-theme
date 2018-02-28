@@ -27,7 +27,6 @@ html {
     display: table;
 }
 
-
 h1,
 h2,
 h3,
@@ -70,14 +69,8 @@ dl {
     padding: 5px;
     position: relative;
     left: 7%;
-    transition: filter .5s ease-in-out;
     -webkit-filter: grayscale(50%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
     filter: grayscale(50%); /* FF 35+ */
-}
-
-.headshot:hover{
-    -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
-    filter: grayscale(0%); /* FF 35+ */
 }
 
 h2 {
@@ -178,6 +171,7 @@ a:focus {
 .navbar-custom a {
     color: #efecdb;
     font-size: 16px;
+    text-align: center;
 }
 
 .navbar-custom .nav li.active {
@@ -274,10 +268,14 @@ li a:active {
     background-size: cover;
     -o-background-size: cover;
 }
-.post-page-title{
+.post-title{
+    color: #0000009c;
+    padding-bottom: 20px;
+}
+
+.blog-title{
     position: relative;
-    vertical-align: middle;
-    top: 22%;
+    top: 22vh;
 }
 .post-page-position{
     position: relative;
@@ -336,12 +334,12 @@ li a:active {
     font-size: 14px;
     font-style: italic;
     margin-top: 8px;
-    margin-bottom: 56px;
+    margin-bottom: 30px;
     text-align: center;
     color: grey !important;
 }
 .post-page-head{
-    height: 100vh;
+    height: 60vh;
 }
 
 
@@ -559,7 +557,13 @@ ul.banner-social-buttons li {
 }
 
 /* Social Share Buttons */
-
+.addthis_inline_share_toolbox{
+    text-align: center;
+    margin-top: 40px;
+}
+.at-style-responsive .at-share-btn{
+    padding: 5px;
+}
 /* Email Signup Form - MailChimp */
 #mc_embed_signup{
     background:#000000;

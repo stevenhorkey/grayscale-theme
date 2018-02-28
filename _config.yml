@@ -1,7 +1,7 @@
 # Site settings
 title: Meme and Meaning
 email: admin@memeandmeaning.com
-url: https://memeandmeaning.com
+url: http://memeandmeaning.com
 author: Steven Horkey
 description: "Musings on all things related to life and what it takes to live it well. Free content and resources on science, psychology, philosophy, and consciousness."
 timezone: America/Phoenix
@@ -23,6 +23,8 @@ social:
 # Build settings
 markdown: kramdown
 permalink: /:title/
+
+steven-img: '/Users/steven/Desktop/mm-site/img/steven1.jpg'
 
 # plugins: 
 #   - jekyll-sitemap
