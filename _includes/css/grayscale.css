@@ -78,7 +78,7 @@ h2 {
 }
 
 .indent {
-    text-indent: 3em;
+    text-indent: 2em;
 }
 .no-indent{
     text-indent: 0;
@@ -703,4 +703,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+.blockquote{
+    color: black;
 }
