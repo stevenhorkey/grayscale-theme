@@ -579,7 +579,7 @@ ul.banner-social-buttons li {
     background:#000000;
     clear:left;
     font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;    
-    padding: 10px 0;
+    padding: 10px 40px;
     height: fit-content;
     /* margin: 20px 0; */
 }
