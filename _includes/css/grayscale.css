@@ -557,12 +557,22 @@ ul.banner-social-buttons li {
 }
 
 /* Social Share Buttons */
-.addthis_inline_share_toolbox{
-    text-align: center;
-    margin-top: 40px;
+.share-button{
+    width: 100%;
+    background-color: #9A9993;
+    background-position: bottom;
+    background-size: cover;
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 0px;
 }
-.at-style-responsive .at-share-btn{
-    padding: 5px;
+.share-button:hover{
+    background-color: #F09E55;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 /* Email Signup Form - MailChimp */
 #mc_embed_signup{
