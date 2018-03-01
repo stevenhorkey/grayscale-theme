@@ -65,7 +65,7 @@ dl {
 .headshot{
     width: 250px;
     border-radius: 150px;
-    border: 5px inset #efecdb;
+    border: 5px solid #9A9993;
     padding: 5px;
     position: relative;
     left: 7%;

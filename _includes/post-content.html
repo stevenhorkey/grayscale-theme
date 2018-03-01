@@ -21,7 +21,7 @@
                 <div>
                 {% assign date = currentdate %}
                 {% endif %}
-                <div id="{{ post.url }}">
+                <div id="{{ post.link }}">
                     <div class="row">
                         <div id="post-content" class="col-md-8 col-md-offset-2">
                             <img class="post-img" alt="{{ post.alt-image }}" src="{{ post.image }}"/>
@@ -33,12 +33,21 @@
                                 
                                 <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Published on {{ post.date | date: '%B %d, %Y' }} by Steven Horkey || Photo by {{ post.photographer }}</p>
                                 
-                                <h4 class="post-title text-center no-indent">{{ post.title }}</h4>
+                                <a href="{{ post.url }}"><h4 class="post-title text-center no-indent">{{ post.title }}</h4></a>
                                 <p></p><!--This is only to indent the first paragraph-->
                                 {{ post.content }}
 
                                 <img class="signiture" src="/img/signiture.png">
-                                <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
+                                <!-- Go to www.addthis.com/dashboard to customize your tools 
+                                <div class="addthis_inline_share_toolbox"></div> -->
+                                <div class="share-page">
+                                    <a href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ page.url }}#{{ post.link }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+                                    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}#{{ post.link }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+                                    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}#{{ post.link }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
+                                    <a href="http://www.stumbleupon.com/submit?url={{ site.url }}{{ page.url }}#{{ post.link }}&title={{ post.title }}" rel="nofollow" target="_blank" title="Share on StumbleUpon">StumbleUpon</a>
+                                    <a href="https://reddit.com/submit?url={{ site.url }}{{ page.url }}#{{ post.link }}&title={{ post.title }}" rel="nofollow" target="_blank" title="Share on Reddit">Reddit</a>
+                                    <a href="mailto:?subject={{ post.title }}?body=Check this out: {{ site.url }}{{ page.url }}#{{ post.link }}" rel="nofollow" target="_blank" title="Share by Email">Email</a>
+                                </div>
                                 <!-- <p>{{ site.url }}{{ page.url }}{{ post.url }}</p> -->
                                 <p></p>
                                 <p></p>
