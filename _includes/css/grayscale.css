@@ -46,6 +46,9 @@ p {
     line-height: 1.5;
     color: #efecdb;
 }
+blockquote>p{
+    color: black;
+}
 
 #about {
     padding-top: 25px;
@@ -326,9 +329,10 @@ li a:active {
 }
 .post-style>p{
     color: black;
-    /* padding: 0 7%; */
-    /* text-align: justify; */
-    /* background: white; */
+    text-indent: 0 !important;
+}
+.blockquote{
+    color: black;
 }
 .post-meta{
     font-size: 14px;
@@ -491,6 +495,11 @@ li a:active {
     min-height: 100vh;
     /* margin-top: 100px; */
     height: fit-content;
+    
+    
+}
+#contact{
+    background: linear-gradient(rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0) ), url(/img/coast.jpg) no-repeat center center scroll;
 }
 
 @media(min-width:767px) {
