@@ -57,12 +57,17 @@ blockquote>p{
     margin-top: 20px;
 }
 .about-text{
-    text-align: center;
+    text-align: justify;
 }
 
 dl {
     font-size: 18px;
     color: #efecdb;
+    text-align: justify;
+}
+dd{
+    indent: none;
+    margin-left: 3em;
 }
 
 .headshot{
@@ -71,9 +76,10 @@ dl {
     border: 5px solid #9A9993;
     padding: 5px;
     position: relative;
-    left: 7%;
     -webkit-filter: grayscale(50%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
     filter: grayscale(50%); /* FF 35+ */
+    display: block;
+    margin: 0 auto;
 }
 
 h2 {
@@ -572,7 +578,7 @@ ul.banner-social-buttons li {
     background-position: bottom;
     background-size: cover;
     color: white;
-    margin-top: 25px;
+    margin-top: 30px;
     font-size: 20px;
     font-weight: bold;
     border-radius: 0px;

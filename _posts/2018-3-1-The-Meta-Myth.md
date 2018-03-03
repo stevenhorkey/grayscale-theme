@@ -10,7 +10,7 @@ category:
 description: 'This journey you wish to embark on is well-known, yet not well trodden. For this is precisely the point, to enter into the unknown, the place you least want to look.'
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Heroesjourney.svg" width="300" height="300" style="float:left;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Heroesjourney.svg" width="300" height="300" style="display:block;margin:0 auto;">
 
 This journey you wish to embark on is well-known, yet not well trodden. For this is precisely the point, to enter into the unknown, the place you least want to look. 
 <br>
