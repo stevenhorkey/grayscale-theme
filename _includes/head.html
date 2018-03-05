@@ -4,7 +4,7 @@
     <title>{% if page.title %}{{ page.title }}{% else %}Meme and Meaning{% endif %}</title>
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
     <meta property="og:title" content="{{ page.title }}" /> 
-    <meta property="og:description" content=content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
     <meta property="og:image" content="{{ page.image }}" />
     <meta property="og:video" content="{{ page.video }}" />
     <meta property="og:video:width" content="560" />
