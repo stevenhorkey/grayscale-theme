@@ -155,6 +155,9 @@ a:focus {
 
 .brand-tleft {
     font-size: 20px; 
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
 .on_life_text {
@@ -172,9 +175,7 @@ a:focus {
 
 .brand-tleft:hover {
     font-size: 130%;
-    -webkit-transition: all .2s ease-in-out;
-    -moz-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
+    
 }
 
 .navbar-custom a {
@@ -192,14 +193,14 @@ a:focus {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
 .nav li a:hover {
     transform: scale(1.1);
     color: #F09E55;
-    -webkit-transition: all .2s ease-in-out;
-    -moz-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
 }
 
 .navbar-custom .nav li a:focus,
