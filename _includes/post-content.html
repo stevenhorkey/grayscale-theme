@@ -29,8 +29,11 @@
                             <div class="post-style">
                                 
                                 <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Published on {{ post.date | date: '%B %d, %Y' }} by Steven Horkey || Image by {{ post.photographer }}</p>
-                                
+                                <iframe src="{{ post.podcast }}" seamless height="60" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+                                <br>
+                                <br>
                                 <a href="{{ post.url }}"><h4 class="post-title text-center no-indent">{{ post.title }}</h4></a>
+                                
                                 <p></p><!--This is only to indent the first paragraph-->
                                 {{ post.content }}
 

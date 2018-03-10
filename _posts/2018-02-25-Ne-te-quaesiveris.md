@@ -8,6 +8,7 @@ alt-image: 'Photo by Stefan Kunze on Unsplash'
 photographer: 'Stefan Kunze'
 book:
 book-img:
+podcast: 'https://pinecast.com/player/c6f61e1a-f336-47ab-a8d1-6e51beca7d92?theme=minimal'
 description: 'Look not outside yourself but instead towards that inner dimension that is all too often forgotten, for this is what they all say and will continue to say.'
 ---
 
