@@ -6,7 +6,7 @@ date: 2018-03-2
 image: 'https://images.unsplash.com/photo-1458301661715-1ab7b95a395c?ixlib=rb-0.3.5&s=18610fe57ffe91b2aca4debb4df88bf5&auto=format&fit=crop&w=2847&q=80'
 alt-image: 'Photo by Sam Sommer on Unsplash'
 photographer: 'Sam Sommer'
-category:
+category: [Psychology, Spirituality]
 description: 'What if men and women saw each other as the people they could become, instead of the people that they currently are.'
 ---
 

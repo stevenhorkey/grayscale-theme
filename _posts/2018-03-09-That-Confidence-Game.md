@@ -5,7 +5,7 @@ link: '#that-confidence-game'
 image: 'http://4.bp.blogspot.com/-4T1E7xnPnt4/UziJAk8jC8I/AAAAAAAAMX4/M3BdHJfCzgY/s1600/Gypsy-with-Cigarette-(1862)-Manet.jpg'
 alt-image: 'Gypsy with a Cigarette by Édouard Manet.'
 photographer: 'Édouard Manet'
-category:
+category: [Emotions, Psychology]
 description: "The confidence you seek cannot help you in the same way the cart cannot pull the horse. Just like most good things in life, it comes through the method which tries the least to achieve it. The method that involves having bigger things on your mind than the outcome that can be prestigiously shown."
 ---
 

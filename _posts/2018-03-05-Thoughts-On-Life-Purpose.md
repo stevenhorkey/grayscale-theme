@@ -6,7 +6,7 @@ date: 2018-03-5
 image: 'https://images.unsplash.com/photo-1502178808765-43ca75578daf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=470c762246e89888dabe1348327e4f7a&auto=format&fit=crop&w=1950&q=80'
 alt-image: 'Photo by Thanh Tran on Unsplash'
 photographer: 'Thanh Tran'
-category:
+category: [Purpose]
 description: "The subtleties and eccentricities of purpose may be difficult to spot, but if you knock on the door with a persistence greater than the lifetime you have thus far wasted, something will answer: something so senseless and grandiose yet right."
 ---
 There is no life purpose here, there is only _thy_ purpose now: at this moment in time. 

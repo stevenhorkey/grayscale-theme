@@ -1,15 +1,12 @@
 Life Style
-Metaphysics
-Stoicism
-Meditation
+Philosophy
 Spirituality
+Psychology
 Psychedelics
-Confidence
-Doubt and Resistance
 Emotions
 Health
 Relationships
-Metaphysics
+Purpose
 Sex
-Get Started
-Finances
+Money
+Mythology

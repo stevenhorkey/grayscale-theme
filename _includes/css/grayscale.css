@@ -278,6 +278,17 @@ li a:active {
     background-size: cover;
     -o-background-size: cover;
 }
+.category-head{
+    border: #efecdb 2px solid;
+    border-radius: 20px;
+    padding: 5px;
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
+.category-head:hover{
+    background: black;
+}
 .post-title{
     color: #0000009c;
     padding-bottom: 20px;

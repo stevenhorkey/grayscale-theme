@@ -6,7 +6,8 @@ date: 2018-02-26
 image: 'https://images.unsplash.com/photo-1514351630998-ad9175c7791d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=23fa2a329c90ca07666307e6033f8076&auto=format&fit=crop&w=2767&q=80'
 alt-image: 'Photo by John Peters on Unsplash'
 photographer: 'John Peters'
-category:
+category: [Spirituality, Psychology]
+podcast: "https://pinecast.com/player/f0cfbce0-88b0-4cab-a569-51b7f16ff3f4?theme=minimal"
 description: 'The biggest tragedy we face in life is not that we lose something, but that we gain the arrogance of thinking we could keep anything at all.'
 ---
 

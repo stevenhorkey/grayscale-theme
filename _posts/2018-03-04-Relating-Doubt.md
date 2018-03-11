@@ -6,7 +6,7 @@ date: 2018-03-4
 image: 'https://images.unsplash.com/photo-1490447519689-42dc651e8eb3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=054d24f1936951deaccc1d7873fca49c&auto=format&fit=crop&w=1951&q=80'
 alt-image: 'Photo by Yaoqi LAI on Unsplash'
 photographer: 'Yaoqi LAI'
-category:
+category: [Emotions, Purpose]
 description: "You don't have this thing figured out and as long as you can keep your wits about you and see that ahead before all you say, you can have faith that you will settle into the correct path. Some may say this art of yours as some sort of arrogance, and some may see it as a phase. In either case, wish them well."
 ---
 When will you reach that point where you no longer care? Where can you unhook from the concerns of others? You are afraid to appear lofty yet you know that this is not your intention. For there are more questions than answers here, and maybe no answers at all.

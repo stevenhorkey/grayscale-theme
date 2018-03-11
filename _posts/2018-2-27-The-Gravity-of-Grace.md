@@ -6,7 +6,7 @@ date: 2018-02-27
 image: 'https://images.unsplash.com/photo-1476370648495-3533f64427a2?ixlib=rb-0.3.5&s=04b7e5ef56be9c371cb21001068c912c&auto=format&fit=crop&w=2850&q=80'
 alt-image: 'Photo by Mathew MacQuarrie on Unsplash'
 photographer: 'Mathew MacQuarrie'
-category:
+category: [Spirituality, Relationships]
 description: 'Death is the other side of birth, and in convention we return to that transcendent womb from which we came, but in truth we had never left in the first place. Remain gracious for your blessings.'
 ---
 What right do we have to proclaim ownership over that which has been given to us? Your mother. Your father. Your music. Your friends. Your partner. These are gifts but not only gifts, they are opportunities. And should you find that your opportunities and interactions are too disagreeable then consider that they may be given up.

@@ -6,8 +6,7 @@ date: 2018-02-25
 image: 'https://images.unsplash.com/photo-1431629452562-165c8f49fc97?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9bcd0ad4b279fda9f18a1be16cb6ca52&auto=format&fit=crop&w=1950&q=80'
 alt-image: 'Photo by Stefan Kunze on Unsplash'
 photographer: 'Stefan Kunze'
-book:
-book-img:
+category: [Spirituality,Psychology]
 podcast: 'https://pinecast.com/player/c6f61e1a-f336-47ab-a8d1-6e51beca7d92?theme=minimal'
 description: 'Look not outside yourself but instead towards that inner dimension that is all too often forgotten, for this is what they all say and will continue to say.'
 ---

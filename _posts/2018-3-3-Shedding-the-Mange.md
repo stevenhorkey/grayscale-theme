@@ -6,7 +6,7 @@ date: 2018-03-3
 image: https://images.unsplash.com/photo-1495313378299-84a779ccc4b2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3eb5d138771abd1b4831b35e87c57ba5&auto=format&fit=crop&w=1950&q=80'
 alt-image: 'Photo by Mickael Tournier on Unsplash'
 photographer: 'Mickael Tournier'
-category:
+category: [Psychology, Emotions, Purpose]
 description: 'If you are going to do something, you might as well go all in and do it well. The ironic thing is that people respect those who humbly own what they do 100% - even if they fail to find a fan.'
 ---
 What do you need from me today?
