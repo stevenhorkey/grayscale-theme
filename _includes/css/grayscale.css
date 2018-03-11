@@ -518,6 +518,7 @@ li a:active {
 }
 #contact{
     background: linear-gradient(rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0) ), url(/img/coast.jpg) no-repeat center center scroll;
+    background-size: cover;
 }
 
 @media(min-width:767px) {
