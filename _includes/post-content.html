@@ -11,6 +11,13 @@
                 </div>
             </div>
             <!-- <div class="archives row">
+                <div class="archive-group col-md-3">
+                    <div id="#{{ category_name | slugize }}"></div>
+                    <p></p>
+                    <h4 class="category-head">All Posts</h4>
+                    <a name="{{ category_name | slugize }}"></a>
+                </div>
+                
                 {% for category in site.categories %}
                     <div class="archive-group col-md-3">
                     {% capture category_name %}{{ category | first }}{% endcapture %}
