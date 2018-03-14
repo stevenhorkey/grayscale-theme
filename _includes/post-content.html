@@ -10,7 +10,7 @@
                     </div>
                 </div>
             </div>
-            <div id="archives">
+            <!-- <div class="archives row">
                 {% for category in site.categories %}
                     <div class="archive-group col-md-3">
                     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -18,15 +18,15 @@
                     <p></p>
                     
                     <h4 class="category-head">{{ category_name }}</h4>
-                    <a name="{{ category_name | slugize }}"></a>
+                    <a name="{{ category_name | slugize }}"></a> -->
                     <!-- {% for post in site.categories[category_name] %}
                     <article class="archive-item">
                         <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
                     </article>
                     {% endfor %} -->
-                    </div>
+                    <!-- </div>
                 {% endfor %}
-            </div>
+            </div> -->
             <br>
             <br>
             <br>
@@ -35,7 +35,7 @@
                     {% assign currentdate = post.date | date: "%B %Y" %}
                     {% if currentdate != date %}
                     {% unless forloop.first %}</div>{% endunless %}
-                    <h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
+                    <h3 id="y{{post.date | date: "%Y"}}" class="row">{{ currentdate }}</h3>
                     <div>
                     {% assign date = currentdate %}
                     {% endif %}
