@@ -292,6 +292,24 @@ li a:active {
 .archives {
     overflow: auto;
 }
+.archive-item{
+    position: relative;
+    margin-top: 20px;
+    
+}
+
+.post-img-div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white !important;
+    background: rgba(0, 0, 0, .6);
+    background-size: 100%;
+}
+.post-img-div a{
+    color: white;
+}
 .post-title{
     color: #0000009c;
     padding-bottom: 20px;
