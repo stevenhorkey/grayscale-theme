@@ -48,6 +48,7 @@
                 {% for post in site.posts %}
                     <article class="archive-item all-item col-md-4 col-sm-6">
                         <img src="{{ post.image }}" class="" width="100%" height="180px">
+                        <div class="img-overlay"></div>
                         <h5 class="post-img-div"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
                     </article>
                 {% endfor %}
