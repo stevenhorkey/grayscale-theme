@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="archives row">
-                <div class="archive-group col-md-3">
+                <div class="archive-group all-posts-show col-md-3 col-sm-6">
                     <div id="#{{ category_name | slugize }}"></div>
                     <p></p>
                     <h4 class="category-head">All Posts</h4>
@@ -19,16 +19,17 @@
                 </div>
                 
                 {% for category in site.categories %}
-                    <div class="archive-group col-md-3">
                     {% capture category_name %}{{ category | first }}{% endcapture %}
+                    <div class="archive-group col-md-3 col-sm-6 archive-{{ category_name }})">
+                    
                     <div id="#{{ category_name | slugize }}"></div>
                     <p></p>
                     
                     <h4 class="category-head">{{ category_name }}</h4>
                     <a name="{{ category_name | slugize }}"></a>
                     {% for post in site.categories[category_name] %}
-                        <article class="archive-item">
-                            <img src="{{ post.image }}" class="col" width="100%" height="180px">
+                        <article class="archive-item cat-item {{ category_name }} col-md-4 col-sm-6">
+                            <img src="{{ post.image }}" class="" width="100%" height="180px">
                             <h5 class="post-img-div"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
                         </article>
                     {% endfor %}
@@ -43,45 +44,16 @@
             <br>
             <br>
             <br>
-            <div>
+            <div class="post-display">
                 {% for post in site.posts %}
-                    {% assign currentdate = post.date | date: "%B %Y" %}
-                    {% if currentdate != date %}
-                    {% unless forloop.first %}</div>{% endunless %}
-                    <h3 id="y{{post.date | date: "%Y"}}" class="row">{{ currentdate }}</h3>
-                    <div>
-                    {% assign date = currentdate %}
-                    {% endif %}
-                    <div id="{{ post.link }}">
-                        <div class="row">
-                            <div id="post-content" class="col-md-8 col-md-offset-2">
-                                <img class="post-img" alt="{{ post.alt-image }}" src="{{ post.image }}"/>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-8 col-md-offset-2 ">
-                                <div class="post-style">
-                                    
-                                    <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Published on {{ post.date | date: '%B %d, %Y' }} by Steven Horkey || Image by {{ post.photographer }}</p>
-                                    <iframe src="{{ post.podcast }}" seamless height="60" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
-                                    <br>
-                                    <br>
-                                    <a href="{{ post.url }}"><h4 class="post-title text-center no-indent">{{ post.title }}</h4></a>
-                                    
-                                    <p></p><!--This is only to indent the first paragraph-->
-                                    {{ post.content }}
-
-                                    <img class="signiture" src="/img/signiture.png">
-
-                                    <a href="{{ post.url }}"><button class="btn share-button">Share this Article</button></a>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    {% if forloop.last %}</div>{% endif %} 
+                    <article class="archive-item all-item col-md-4 col-sm-6">
+                        <img src="{{ post.image }}" class="" width="100%" height="180px">
+                        <h5 class="post-img-div"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
+                    </article>
                 {% endfor %}
-            </div>  
+            </div>
         </div>
     </div>
 </header>
+
+

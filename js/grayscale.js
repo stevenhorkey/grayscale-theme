@@ -28,3 +28,29 @@ $(function() {
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+jQuery.fn.clickToggle = function(a,b) {
+    function cb(){ [b,a][this._tog^=1].call(this); }
+    return this.on("click", cb);
+};
+
+$('.cat-item').hide();
+
+$('.category-head').on('click',function(){
+        $('.all-item').fadeOut();                
+        $('.cat-item').fadeOut();                
+        var category = $(this).text();
+        console.log(category);
+        console.log(this);
+        var articles = $('article.'+category);
+        console.log(articles)
+        articles.appendTo('.post-display');
+        articles.fadeIn();
+        
+    });
+$('.all-posts-show').on('click',function(){
+        $('.cat-item').fadeOut(); 
+        $('.all-item').fadeIn();                
+          
+    }
+);

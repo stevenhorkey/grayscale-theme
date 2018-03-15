@@ -5,3 +5,44 @@
     </article>
 {% endfor %} -->
 
+
+<div>
+    {% for post in site.posts %}
+        {% assign currentdate = post.date | date: "%B %Y" %}
+        {% if currentdate != date %}
+        {% unless forloop.first %}</div>{% endunless %}
+        <h3 id="y{{post.date | date: "%Y"}}" class="row">{{ currentdate }}</h3>
+        <div>
+        {% assign date = currentdate %}
+        {% endif %}
+        <div id="{{ post.link }}">
+            <div class="row">
+                <div id="post-content" class="col-md-8 col-md-offset-2">
+                    <img class="post-img" alt="{{ post.alt-image }}" src="{{ post.image }}"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 ">
+                    <div class="post-style">
+                        
+                        <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Published on {{ post.date | date: '%B %d, %Y' }} by Steven Horkey || Image by {{ post.photographer }}</p>
+                        <iframe src="{{ post.podcast }}" seamless height="60" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+                        <br>
+                        <br>
+                        <a href="{{ post.url }}"><h4 class="post-title text-center no-indent">{{ post.title }}</h4></a>
+                        
+                        <p></p>
+                        This is only to indent the first paragraph
+                        {{ post.content }}
+
+                        <img class="signiture" src="/img/signiture.png">
+
+                        <a href="{{ post.url }}"><button class="btn share-button">Share this Article</button></a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% if forloop.last %}</div>{% endif %} 
+    {% endfor %}
+</div>
