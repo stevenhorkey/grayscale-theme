@@ -282,20 +282,28 @@ li a:active {
     border: #efecdb 2px solid;
     border-radius: 20px;
     padding: 5px;
-    -webkit-transition: background .3s ease-in-out;
-    -moz-transition: background .3s ease-in-out;
-    transition: background .3s ease-in-out;
+    -webkit-transition: all .14s ease-in-out;
+    -moz-transition: all .14s ease-in-out;
+    transition: all .14s ease-in-out;
 }
 .category-head:hover{
-    background: black;
+    transform: scale(1.02);
 }
+
 .archives {
     overflow: auto;
 }
 .archive-item{
     position: relative;
     margin-top: 20px;
+    -webkit-transition: all .14s ease-in-out;
+    -moz-transition: all .14s ease-in-out;
+    transition: all .14s ease-in-out;
     
+}
+.archive-item:hover,
+.archive-group:hover{
+    cursor: pointer;
 }
 
 .post-img-div{

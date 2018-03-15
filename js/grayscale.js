@@ -37,20 +37,38 @@ jQuery.fn.clickToggle = function(a,b) {
 $('.cat-item').hide();
 
 $('.category-head').on('click',function(){
+    var category = $(this).text();
+    
+    if ($(this).attr('data') !== 'active'){
+        $('.category-head').removeAttr('data');
+        $('.category-head').css('background','none');
+        $('.category-head.'+category).css('background','black').attr('data','active')
+        // console.log($('.category-head.'+category).css('background','black').data().val());
+
         $('.all-item').fadeOut();                
         $('.cat-item').fadeOut();                
-        var category = $(this).text();
         console.log(category);
         console.log(this);
         var articles = $('article.'+category);
         console.log(articles)
         articles.appendTo('.post-display');
         articles.fadeIn();
-        
-    });
-$('.all-posts-show').on('click',function(){
-        $('.cat-item').fadeOut(); 
-        $('.all-item').fadeIn();                
-          
     }
-);
+    
+    
+});
+$('.all-posts-show').on('click',function(){
+    if ($(this).attr('data') !== 'active'){
+        $('.category-head').removeAttr('data');        
+        $('.all-posts-btn').css('background','black').attr('data','active')
+        $('.category-head').css('background','none') 
+        $('.category-head.all-posts-btn').css('background','black')
+        $('.cat-item').fadeOut(); 
+        $('.all-item').fadeIn();    
+    }  
+});
+$('.all-posts-btn').css('background','black').attr('data','active')
+$('.category-head').css('background','none') 
+$('.category-head.all-posts-btn').css('background','black')
+$('.cat-item').fadeOut(); 
+$('.all-item').fadeIn(); 
