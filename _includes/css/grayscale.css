@@ -248,6 +248,14 @@ li a:active {
     background-size: cover;
     -o-background-size: cover;
 }
+.intro-text{
+    margin: 0;
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+}
 
 .intro-posts {
     display: table;
@@ -431,7 +439,7 @@ li a:active {
 
 .intro .intro-body .intro-text {
     margin-top: 5px;
-    font-size: 16px;
+    font-size: 50px;
     text-transform: uppercase;
     color: rgba(0, 0, 0, 0.8);
     font-weight: bold;
@@ -447,10 +455,18 @@ li a:active {
         font-size: 100px;
     }
 
-    .intro .intro-body .intro-text {
+    .intro .intro-body {
         font-size: 25px;
     }
+    .intro-text{
+        font-size: 40px;
+    }
 
+}
+@media screen and (max-width: 1200px){
+    .intro-text{
+        font-size: 4vw !important;
+    }
 }
 
 .btn-circle {
