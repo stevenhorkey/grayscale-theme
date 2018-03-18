@@ -2,20 +2,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <div class="row">
-                    <iframe width="80%" height="315" src="https://www.youtube.com/embed/Rl8GHTvEQf8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <div class="row video-container">
+                    <iframe class="col-xs-12" src="https://www.youtube.com/embed/Rl8GHTvEQf8?rel=0" width="853" height="480" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
-                <div class="row text-center">
-                    <h2 style="color:rgba(0, 0, 0, 0.822);">Recent Posts</h2>
-                </div>
-                <div class="row">
-                    {% for post in site.posts | limit:3 %}
-                        <article class="archive-item all-item col-md-4 col-sm-6" style="background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('{{ post.image }}');">
-                            
-                            <h5 class="post-img-div"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
-                        </article>
-                    {% endfor %}
-                </div>
+                
             </div>
             <div class="col-md-4">
 
@@ -54,7 +44,20 @@
                         </div>
                     </form>
                 </div>
-
+            </div>
+        </div>
+        <br>
+        <div class="row text-center clearfix">
+            <h2>Recent Posts</h2>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                {% for post in site.posts | limit:4 %}
+                    <article class="archive-item all-item col-md-3 col-sm-6" style="background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('{{ post.image }}');">
+                        
+                        <h5 class="post-img-div"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
+                    </article>
+                {% endfor %}
             </div>
         </div>
     </div>
