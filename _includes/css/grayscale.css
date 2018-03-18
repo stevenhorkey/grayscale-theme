@@ -35,7 +35,8 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;    font-weight: 700;
+    font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;    
+    font-weight: 700;
     letter-spacing: 1px;
     color: #efecdb;
 }
@@ -288,7 +289,7 @@ li a:active {
 }
 .archive-item{
     position: relative;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     -webkit-transition: all .14s ease-in-out;
     -moz-transition: all .14s ease-in-out;
     transition: all .14s ease-in-out;
@@ -366,7 +367,7 @@ li a:active {
     padding:2% 7% 7% 7%;
     text-align: justify;
     background: white;
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
     
     /* background: rgba(0, 0, 0, 0.5); */
 }
@@ -648,8 +649,8 @@ ul.banner-social-buttons li {
 #mc_embed_signup h2{
     margin: 0;
     color: #F09E55;
-    font-size: 270%;
-    text-align: justify;
+    font-size: 50px;
+    text-align: center;
     display: inline-block;
 }
 #mc_embed_signup span p{
@@ -667,14 +668,14 @@ ul.banner-social-buttons li {
     padding: 4px 0 !important;
     color: black;
     font-weight: normal;
-    border-radius: 6px;
+    border-radius: 2px;
     background-color: #f5f3ea;
 }
 #mc_embed_signup .button {
     background-color:  #F09E55;
     color: black;
     margin-top: 1%;
-    border-radius: 6px;
+    border-radius: 2px;
     font-weight: bold;
     text-transform: uppercase;
     line-height: 1;
@@ -688,7 +689,8 @@ ul.banner-social-buttons li {
     width: 100%;
 }
 #mc_embed_signup form{
-    padding: 10px 0
+    padding: 10px 0;
+    /* text-align: center; */
 }
 
 /* Contact Form */
@@ -741,8 +743,8 @@ input[type = submit] {
 /* Footer */
 
 footer {
-    padding: 50px 20px;
-    height: 20vh;
+    padding: 0  20px;
+    height: 100px;
 }
 
 footer p {
@@ -751,6 +753,9 @@ footer p {
     margin: 0;
     font-size: 16px;
     padding: 10px;
+    position: relative;
+    top: 25px;
+    /* line-height: 100px */
 }
 
 ::-moz-selection {

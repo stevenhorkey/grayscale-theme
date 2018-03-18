@@ -67,6 +67,7 @@ $('.all-posts-show').on('click',function(){
         $('.all-item').fadeIn();    
     }  
 });
+
 $('.all-posts-btn').css('background','black').attr('data','active')
 $('.category-head').css('background','none') 
 $('.category-head.all-posts-btn').css('background','black')
