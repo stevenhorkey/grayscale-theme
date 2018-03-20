@@ -652,7 +652,7 @@ ul.banner-social-buttons li {
     margin: 0 0 10px 0;
     color: #F09E55;
     font-size: 22px;
-    text-align: left;
+    text-align: center;
     display: inline-block;
 }
 #mc_embed_signup span p{
@@ -695,11 +695,16 @@ ul.banner-social-buttons li {
     padding: 10px 0;
     /* text-align: center; */
 }
+@media screen and (max-width: 991px){
+    .home-signup{
+        margin-top: 50px;
+    }
+}
 /* Recent Posts */
 .recent-posts{
     padding: 100px 0;
     /* background: url('../../img/forest-river.jpg') */
-    background: linear-gradient(rgba(0, 0, 0, 0.267),rgba(0, 0, 0, 0.178)), url('https://images.unsplash.com/photo-1437818707065-0d81e31d0344?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6dbf7b40a6b2bc2ec0220c8402d51db2&auto=format&fit=crop&w=2750&q=80');
+    background: linear-gradient(rgba(0, 0, 0, 0.267),rgba(0, 0, 0, 0.178)), url('https://images.unsplash.com/photo-1506291318501-948562d765d7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=71ad8e3b7b4bd210182ed5e5c024903b&auto=format&fit=crop&w=1950&q=80');
     background-position: center;
     background-size: cover;
     color: black;

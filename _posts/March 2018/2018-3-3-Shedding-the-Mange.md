@@ -24,4 +24,7 @@ Whether you like it or not, you are going to have to let go sooner than later if
 The time you spend dwelling on the criticism and the "what ifs" is wasted. Look at it and let it burn until you shed the mange. 
 <br>
 <br>
-**If you are going to do something, you might as well go all in and do it well.** The ironic thing is that people respect those who humbly own what they do 100% - even if they fail to find a fan.
+**If you are going to do something, you might as well go all in and do it well.** The ironic thing is that people respect those who humbly own what they do 100% - even if they fail to become a fan.
+<br>
+<br>
+Listen to yourself - consider what you need from yourself.

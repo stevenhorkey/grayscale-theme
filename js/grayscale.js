@@ -73,3 +73,7 @@ $('.category-head').css('background','none')
 $('.category-head.all-posts-btn').css('background','black')
 $('.cat-item').fadeOut(); 
 $('.all-item').fadeIn(); 
+$('.brand-logo').hide()
+$('.brand-logo').fadeIn()
+
+AOS.init();
