@@ -1,41 +1,35 @@
-[debug] [2018-03-20T21:09:03.388Z] ----------------------------------------------------------------------
-[debug] [2018-03-20T21:09:03.390Z] Command:       /usr/local/Cellar/node/8.9.2/bin/node /usr/local/bin/firebase serve
-[debug] [2018-03-20T21:09:03.390Z] CLI Version:   3.17.6
-[debug] [2018-03-20T21:09:03.390Z] Platform:      darwin
-[debug] [2018-03-20T21:09:03.390Z] Node Version:  v8.9.2
-[debug] [2018-03-20T21:09:03.391Z] Time:          Tue Mar 20 2018 14:09:03 GMT-0700 (MST)
-[debug] [2018-03-20T21:09:03.391Z] ----------------------------------------------------------------------
+[debug] [2018-03-22T18:19:23.001Z] ----------------------------------------------------------------------
+[debug] [2018-03-22T18:19:23.003Z] Command:       /usr/local/Cellar/node/8.9.2/bin/node /usr/local/bin/firebase deploy
+[debug] [2018-03-22T18:19:23.003Z] CLI Version:   3.17.6
+[debug] [2018-03-22T18:19:23.003Z] Platform:      darwin
+[debug] [2018-03-22T18:19:23.003Z] Node Version:  v8.9.2
+[debug] [2018-03-22T18:19:23.004Z] Time:          Thu Mar 22 2018 11:19:23 GMT-0700 (MST)
+[debug] [2018-03-22T18:19:23.004Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2018-03-20T21:09:03.405Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2018-03-20T21:09:03.405Z] > authorizing via signed-in user
-[debug] [2018-03-20T21:09:03.407Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
-[debug] [2018-03-20T21:09:03.407Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+[debug] [2018-03-22T18:19:23.017Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-22T18:19:23.017Z] > authorizing via signed-in user
+[debug] [2018-03-22T18:19:23.018Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-03-22T18:19:23.018Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
  { refresh_token: '1/_Pw1-GB1I8ou7bznoKojDFGoH9Y4PpVlXAJ5T9KfkvI',
   client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
   client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
   grant_type: 'refresh_token',
   scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
- Tue Mar 20 2018 14:09:03 GMT-0700 (MST)
-[debug] [2018-03-20T21:09:03.703Z] <<< HTTP RESPONSE 200
-[debug] [2018-03-20T21:09:03.717Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/mm-site-be5bd  
+ Thu Mar 22 2018 11:19:23 GMT-0700 (MST)
+[debug] [2018-03-22T18:19:23.541Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-22T18:19:23.547Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/mm-site-be5bd  
   
- Tue Mar 20 2018 14:09:03 GMT-0700 (MST)
-[debug] [2018-03-20T21:09:04.292Z] <<< HTTP RESPONSE 200
-[debug] [2018-03-20T21:09:04.293Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/mm-site-be5bd/tokens  
+ Thu Mar 22 2018 11:19:23 GMT-0700 (MST)
+[debug] [2018-03-22T18:19:24.113Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-22T18:19:24.114Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/mm-site-be5bd/tokens  
   
- Tue Mar 20 2018 14:09:04 GMT-0700 (MST)
-[debug] [2018-03-20T21:09:04.713Z] <<< HTTP RESPONSE 200
-[debug] [2018-03-20T21:09:04.714Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/mm-site-be5bd  
-  
- Tue Mar 20 2018 14:09:04 GMT-0700 (MST)
-[debug] [2018-03-20T21:09:05.327Z] <<< HTTP RESPONSE 200
+ Thu Mar 22 2018 11:19:24 GMT-0700 (MST)
+[debug] [2018-03-22T18:19:24.937Z] <<< HTTP RESPONSE 200
 [info] 
-[info] === Serving from '/Users/steven/Desktop/mm-site'...
+[info] === Deploying to 'mm-site-be5bd'...
 [info] 
-[debug] [2018-03-20T21:09:05.330Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/925354169316/clients/_:getWebAppConfig  
+[info] i  deploying hosting
+[info] i  hosting: preparing _site directory for upload...
+[debug] [2018-03-22T18:19:25.963Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/mm-site-be5bd/uploads/-L8Dvxr0VwM6cF9p1IfF?fileCount=100&message=  
   
- Tue Mar 20 2018 14:09:05 GMT-0700 (MST)
-[debug] [2018-03-20T21:09:05.849Z] <<< HTTP RESPONSE 200
-[info] i  hosting: Serving hosting files from: _site
-[info] ✔  hosting: Local server: http://localhost:5000
-
+ Thu Mar 22 2018 11:19:25 GMT-0700 (MST)
