@@ -74,7 +74,7 @@ dl {
     text-align: justify;
 }
 dd{
-    indent: none;
+    /* indent: none; */
     margin-left: 3em;
 }
 
