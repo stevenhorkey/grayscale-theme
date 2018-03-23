@@ -1,34 +1,34 @@
-<!-- Post Header -->
-<header class="intro-essays">
-    <div class="intro-body">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-10 col-md-offset-1">
-                    
-                    <h1 class="post-page-title">Essays<br></h1>
-            
+    <!-- Post Header -->
+    <header class="intro-essays">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        
+                        <h1 class="post-page-title">Essays<br></h1>
+                
 
+                    </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    
-                    {% for post in site.posts %}
-                        {% assign currentdate = post.date | date: "%B %Y" %}
-                        {% if currentdate != date %}
-                            {% unless forloop.first %}</ul>{% endunless %}
-                            <!-- <div class="row"> -->
-                                <h4 class="post-date-heads"  id="y{{post.date | date: "%B %Y"}}">{{ currentdate }}</h4>
-                            <!-- </div> -->
-                            {% assign date = currentdate %}
-                        {% endif %}
-                        <div class="col-sm-6 col-xs-12 post-card">
-                            <a class="post-img-title" href="{{ post.url }}">{{ post.title }}</a>
-                        </div>
-                    {% endfor %}
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        
+                        {% for post in site.posts %}
+                            {% assign currentdate = post.date | date: "%B %Y" %}
+                            {% if currentdate != date %}
+                                {% unless forloop.first %}</ul>{% endunless %}
+                                <!-- <div class="row"> -->
+                                    <h4 class="post-date-heads"  id="y{{post.date | date: "%B %Y"}}">{{ currentdate }}</h4>
+                                <!-- </div> -->
+                                {% assign date = currentdate %}
+                            {% endif %}
+                            <div class="col-sm-6 col-xs-12 post-card">
+                                <a class="post-img-title" href="{{ post.url }}">{{ post.title }}</a>
+                            </div>
+                        {% endfor %}
 
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</header>
+    </header>

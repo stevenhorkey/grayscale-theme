@@ -1,12 +1,12 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Minimalism = Autonomy'
 link: '#minimalism-equals-autonomy'
 image: 'https://images.unsplash.com/photo-1490805981889-3fdd44cec18a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=38d4d4496cc087c4293c714fdb2aaca1&auto=format&fit=crop&w=1950&q=80'
 alt-image: 'Photo by Ben Cliff on Unsplash'
 photographer: 'Ben Cliff'
-category: [Psychology, Life Style]
+category: [Psychology, Life-Style]
 description: 'Call it minimalism, call it decluttering or an embodiment of the simple life. I will call it autonomy. I will call it freedom from the mistaken notions and beliefs that trick others into thinking anything is worth more than their precious, dwindling time. '
 ---
 In a serious sense, I believe that less is needed to thrive in this world that is needed to survive. 

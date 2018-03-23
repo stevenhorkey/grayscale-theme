@@ -6,7 +6,7 @@ date: 2018-02-28
 image: 'https://images.unsplash.com/photo-1441323263989-281bc2f5b68c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1b62d969908a955926c74eff0567275d&auto=format&fit=crop&w=1953&q=80'
 alt-image: 'Photo by Eder Pozo Pérez on Unsplash'
 photographer: 'Eder Pozo Pérez'
-category: [Life Style, Purpose]
+category: [Life-Style, Purpose]
 description: 'Death is the other side of birth, and in convention we return to that transcendent womb from which we came, but in truth we had never left in the first place. Remain gracious for your blessings.'
 ---
 What do they mean when they say time is spent? Are our lives nothing more than the currency of eternity? 

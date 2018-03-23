@@ -1,3 +1,4 @@
 {% include css/bootstrap.min.css %}
 {% include css/typeface.min.css %}
+{% include css/aos.css %}
 {% include css/style.min.css %}

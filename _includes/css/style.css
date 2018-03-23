@@ -292,7 +292,7 @@ li a:active {
 }
 
 .archives {
-    overflow: auto;
+    overflow: hidden;
 }
 .archive-item{
     position: relative;

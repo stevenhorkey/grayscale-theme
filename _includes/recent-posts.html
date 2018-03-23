@@ -1,18 +1,18 @@
-<section class="recent-posts">
-    <div class="container" data-aos="fade-right" data-aos-offset="200">
-        <div class="row text-center clearfix">
-            <h2>Recent Posts</h2>
-        </div>
-        <div class="row">
-            <div class="col-xs-12">
-                {% for post in site.posts | limit:4 %}
-                    <div class="archive-item all-item col-md-3 col-sm-6" style="background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('{{ post.image }}');">
-                        
-                        <h5 class="post-img-div"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
-                    </div>
-                {% endfor %}
+    <section class="recent-posts">
+        <div class="container" data-aos="fade-right" data-aos-offset="200">
+            <div class="row text-center clearfix">
+                <h2>Recent Posts</h2>
             </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    {% for post in site.posts | limit:4 %}
+                        <div class="archive-item all-item col-md-3 col-sm-6" style="background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('{{ post.image }}');">
+                            
+                            <h5 class="post-img-div"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <br>       
         </div>
-        <br>       
-    </div>
-</section>
+    </section>

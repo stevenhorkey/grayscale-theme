@@ -22,7 +22,6 @@ social:
 markdown: kramdown
 permalink: /:title/
 
-steven-img: '/Users/steven/Desktop/mm-site/img/steven1.jpg'
 
 # plugins: 
 #   - jekyll-sitemap
