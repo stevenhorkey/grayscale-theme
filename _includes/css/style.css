@@ -691,7 +691,7 @@ ul.banner-social-buttons li {
 #mc_embed_signup span p{
     text-align: center;
     font-size: 18px;
-    display: inline-block;
+    /* display: inline-block; */
     margin: 0 0 10px 0;
 }
 #mc_embed_signup .indicates-required {
