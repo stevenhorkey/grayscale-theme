@@ -665,6 +665,10 @@ ul.banner-social-buttons li {
     transition: all .2s ease-in-out;
 }
 /* Email Signup Form - MailChimp */
+.email-position{
+    position: relative;
+    top: 30px;
+}
 #mc_embed_signup{
     background: #000000a1;
     clear: left;

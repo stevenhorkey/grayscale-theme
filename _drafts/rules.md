@@ -1,4 +1,7 @@
-See people as they who they could be, not soley as they are.
+See others as the people they could be; not soley who they are currently
 
-We are the committee
+You are the committee.
 
+There is nothing to hold on to.
+
+This thing is going to kill you...You might as well go all out.
