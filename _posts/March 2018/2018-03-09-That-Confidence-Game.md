@@ -21,7 +21,7 @@ Just like most good things in life, it comes through the method which tries the 
 So when you stand before others, and you will if you do anything worthwhile, you will almost certainly be scared. Scared not of what you look like, sound like, or seem like, but of what others will think you look, sound, and seem like. 
 <br>
 <br>
-Anticipate this, *for you are still so naive from the existential position in which you stand.*
+Anticipate this, because if you are like most of us, *you are still so naive from the existential position in which you stand.*
 <br>
 <br>
 But, just because you are scared doesn't mean that your words must come from the same place. In saying those things which make you feel stronger, there is the potential for you to open up and approach that place where the elevated memetic of the person you aspire to be can sing through. Where that person can come to life, if only for a brief moment where you no longer hold any concern related to the petty trivialities of life that bake the rest of us to the ground.
