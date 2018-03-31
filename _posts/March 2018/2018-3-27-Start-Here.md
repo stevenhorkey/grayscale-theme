@@ -61,7 +61,6 @@ Listening to long-form conversations brings a whole different level of authentic
 Solitude is the fountain from which many, if not all, insights arise. By being in nature, we connect with that original source and gain a greater appreciation; a sense of mystery. 
 <br>
 - <a target='_blank' href='https://www.alltrails.com/'>Alltrails.com and App</a>
-- alltrails.com and app
 <br>
 <br>
 
@@ -79,8 +78,13 @@ We all know that exercise is good for the heart and overall health.
 **Stretching**
 <br>
 <br>
-The body does not remain limber on its own accord. A few stretches daily go a long way to creating a greater sense of stability and flexibility in your body.
-- 
+The body does not remain limber on its own accord. A few stretches daily go a long way to creating a greater sense of stability and flexibility in your body. These are a few that I do everyday:
+- Cat & Cow Stretch
+- Back Extension
+- Butterfly Stretch
+- Child's Pose
+- Back Bridge
+- Seated Spinal Twists
 
 <br>
 **Weight Training**
@@ -98,7 +102,7 @@ The goal is not necessarily to be a bodybuilder but increased, functional muscle
 **Tea**
 <br>
 <br>
-Coffee is fine once in a while but tea offers a  plethora of benefits in comparison. There is a reason why healthy, long-living populations drink a ton of the stuff. There are too many to name so try and find some kinds you like. Avoid ones with sugar if you can. 
+Coffee is fine once in a while but tea offers a  plethora of benefits in comparison. There is a reason why healthy, long-living populations drink a ton of the stuff. There are too many to name so try and find some you like. Avoid ones with sugar if you can. 
 - Green Tea
 - Bengal Spice Tea
 - Chamomile Tea
@@ -107,21 +111,21 @@ Coffee is fine once in a while but tea offers a  plethora of benefits in compari
 **Whole Food Based Diet**
 <br>
 <br>
-No one can argue that eating some more vegetables would be bad for you. Chow down and add whole plant foods to crowd out the processed junk.
-- <a target='_blank' href'https://www.forksoverknives.com/'>Forks over Knives</a>
+I believe that we should consider where our food comes from, how it affects other beings and people, how it affects the planet, and how it affects our own health. Also, don't think of food in terms of a diet, but instead in terms of a long term life style. Chow down and add more whole plant foods to crowd out the processed junk.
+- <a target='_blank' href='https://www.forksoverknives.com/'>Forks over Knives Documentary and Website</a>
 - Eat to Live by Joel Furhman
-- Nutritarian Diet
+- <a target='_blank' href='https://www.drfuhrman.com/library/eat-to-live-blog/90/dr-fuhrmans-nutritarian-pyramid'>Nutritarian Diet</a>
 
 <br>
 **Meaningful Music**
 <br>
 <br>
-I can't even comprehend a life without music. I am a fan of all kinds, but certain genres have a profound self-reflective aspect to them. Here are a few artists I enjoy:
+I can't comprehend a life without music. I am a fan of all kinds, but certain genres have a profound self-reflective aspect to them. Here are a few artists I enjoy:
 - Olafur Arnalds
 - Nils Frahm
 - Ryuichi Sakamoto
 - Fabrizio Paterlini
-- Back
+- Bach
 - Mozart
 - Beethoven
 - Otto A Totland
@@ -147,7 +151,7 @@ A unique feeling comes with the embodiment of creativity. In a most surreal sens
 **Studying Psychology (& Philosophy)**
 <br>
 <br>
-Mastering life is primarily about mastering your psychology. Put simply, if you can understand and control your mindset, you can accomplish anything you desire. Here are a few topics to understand despite the fact that they may not be entirely correct:
+Mastering life is primarily about mastering your psychology. Put simply, if you can understand and control your mindset, you can accomplish anything you put yourself to. Here are a few topics to understand despite the fact that they may not be entirely "correct":
 - Spiral Dynamics
 - Maslow's Hierarchy of Needs
 - Self Deception and Cognitive Bias
@@ -173,7 +177,7 @@ Traveling alone is one of those things that really pushes you outside of yoursel
 **Service**
 <br>
 <br>
-Are we here to help others? I don't know. But it sure feels good and if everyone was to take a role in their community, we would solve societal issues at their source: individuals and communities instead of countries and cultures. Here are a few ideas:
+Are we here to help others? I don't know. But it sure feels good and if everyone was to take a role in their community, we would solve societal issues at their source: individuals and communities instead of countries and cultures. Here are a few ideas for volunteer work:
 - Community Garden
 - Hospice Center
 - Homeless Shelter
@@ -192,14 +196,14 @@ You must know what you truly value in life if you are to make fulfilling decisio
 **Discover Your Life's Calling**
 <br>
 <br>
-If you have yet to understand how you exactly want to impact the world with your life than this should be your main priority. People who are intentionally working towards something greater than themselves are happier people. If that isn't you, it can be and the importance of this cannot be overstated. Find your life purpose; find it as soon as possible... Here is a course that has helped me tremendously:
+If you have yet to understand how you exactly want to impact the world with your life than this should be your main priority. One of the primary components of a fulfilling life is contributing to a mission that is greater than yourself. Find your life purpose and find it as soon as possible... Here is a course that has helped me tremendously:
 - Actualized.org Ultimate Life Purpose Course
 
 <br>
 **Declutter and Clean Up Your Room**
 <br>
 <br>
-The notion of minimalism has been on the rise in the past few years but this is more than a trendy headline. This is about aligning your actions and your belongings with your values. It's about clearing up what you own so that you may gain greater autonomy, happiness, and peace of mind.
+This is about aligning your actions and your belongings with your values. It's about clearing up what you own so that you may gain greater autonomy, happiness, and peace of mind.
 - Start with cleaning at least one room or closet in your house.
 - Packing Party
 - Give at least one thing you own to someone everyday.
@@ -209,15 +213,15 @@ The notion of minimalism has been on the rise in the past few years but this is 
 **Vipassana Courses**
 <br>
 <br>
-Vipassana Courses are a service based meditation retreats that teach you the fundamental techniques of Buddhist-style meditation. These are great opportunities for anyone since they are donation and service run. In short, there are approximately 10 hours of meditation per day for nine days and on the tenth day, you get to converse with your fellow students before leaving on day eleven. I can't recommend these enough.
-- https://www.dhamma.org/
-- https://www.dhamma.org/en-US/maps
+Vipassana Courses are service based retreats that teach you the fundamental techniques of Buddhist-style meditation. These are great opportunities for anyone since they are run off donation and student service. In short, there are 9 days of silence with approximately 10 hours of meditation per day. On the tenth day, you get to converse with your fellow students before leaving on day eleven. I can't recommend these enough.
+- <a target="_blank" href='https://www.dhamma.org/'>https://www.dhamma.org/</a>
+- <a target="_blank" href='https://www.dhamma.org/en-US/maps'>https://www.dhamma.org/en-US/maps</a>
 
 <br>
 **Self Reflection and Questioning**
 <br>
 <br>
-Visualizing and planning your future along with recognizing and processes where you have been and currently are is foundational if you are to form a profound life. Turning inward is the perennial wisdom and questioning your motives, beliefs, actions, and assumptions is at its core. Here are a few resources to get started:
+Visualizing and planning your future along with recognizing where you have been and currently are is foundational if you are to form a profound life. Turning inward is the perennial wisdom and questioning your motives, beliefs, actions, and assumptions is at its core. Here are a few resources to get started:
 
 - Jordan B Peterson's Self Authoring
 - Nathaniel Branden's Sentence Completion Exercises
