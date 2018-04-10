@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Seeing Through the Fog of Hopelessness'
-link: '#seeing-through-the-fog-of-hopelessness'
+title: 'See Through Yourself To See the Person You May Become'
+link: '#see-through-yourself'
 image: 'https://images.unsplash.com/photo-1488279790500-92397988c0c1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=00270098dddec33ea28c72cef26107ea&auto=format&fit=crop&w=1952&q=80'
 alt-image: 'Photo by Amund Røed on Unsplash'
 photographer: 'Amund Røed'
 category: [Emotions, Psychology]
-description: 'What must you do now so that the "you" in the future does not hold the same regret as you do currently? Or, said in another way, what do you have to do to make your future self-proud?What are the first steps towards making those things happen? Can you do at least that?'
+description: "What must you do now so that you don't hold the same regrets in the future? Or, said in another way, what do you have to do to make your future self-proud? What are the first steps towards making those things happen? Can you do at least that?"
 ---
 The depression that creeps in is a product of the fog. The vague melding of all the directions and decisions you face in every moment.
 <br>

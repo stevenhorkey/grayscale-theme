@@ -25,6 +25,18 @@
                                 
                                 <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Published on {{ page.date | date: '%B %d, %Y' }} by Steven Horkey || Photo by {{ page.photographer }}</p>
 
+                                {% if page.video %}
+                                <div class="row">
+                                    <div class="col-xs-12 clearfix">
+                                        <!-- <div class="row video-container autoplay"> -->
+                                            <iframe class="yt-vid" src="{{ page.video }}" width="853" height="480" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                        <!-- </div> -->
+                                    </div>
+                                </div>
+                                    <br>
+                                    <br>
+                                {% endif %}
+
                                 {% if page.podcast %}
                                     <iframe src='{{ page.podcast }}' seamless height="60" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
                                     <br>

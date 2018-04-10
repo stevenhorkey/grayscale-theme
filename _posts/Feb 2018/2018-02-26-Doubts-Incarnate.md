@@ -9,6 +9,7 @@ photographer: 'John Peters'
 category: [Spirituality, Psychology]
 podcast: "https://pinecast.com/player/f0cfbce0-88b0-4cab-a569-51b7f16ff3f4?theme=minimal"
 description: 'The biggest tragedy we face in life is not that we lose something, but that we gain the arrogance of thinking we could keep anything at all.'
+video: 'https://www.youtube.com/embed/okdjc4EepZ0'
 ---
 
 Make it known that these doubts you endure are not yourself but are the voices of those who surround and afflict you with their own case of doubts, from those who surround and afflict them. 
