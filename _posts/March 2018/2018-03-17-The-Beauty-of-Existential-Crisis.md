@@ -6,46 +6,46 @@ image: 'https://images.unsplash.com/photo-1461484261293-7175bb44e871?ixlib=rb-0.
 alt-image: 'Photo by Igor Lepilin on Unsplash'
 photographer: 'Igor Lepilin'
 category: [Spirituality, Psychology]
-description: 'Though it is terrifying, there is also something so inextricably beautiful about failing. Not failing at a particular goal, but failing to listen to your deepest intuition; who you truly are as a human being.'
+description: 'Though it is terrifying, there is something so inextricably beautiful about doubt. And not just any doubt per se, but the doubt that leads you to question the very foundations of your life.'
 ---
 
-Though it is terrifying, there is also something so inextricably beautiful about failing. Not failing at a particular goal, but failing to listen to your deepest intuition; who you truly are as a human being.
+Though it is terrifying, there is something so inextricably beautiful about doubt. And not just any doubt per se, but the doubt that leads you to question the very foundations of your life.
 <br>
 <br>
-You spend much of your time ignoring certain aspects of yourself, so much so that they hardly, if ever enter your consciousness. This is the route that most men and women lead, the route that is filled with regret and ultimately the curse of being itself.
+If you are like most people, you spend much of your time ignoring certain aspects of yourself, so much so that they hardly, if ever enter your consciousness. This is the route that most men and women lead, the route that is filled with the pettiest kind of regret, and thus the worst kind of life-long sorrow.
 <br>
 <br>
-Where are you selling yourself short? Where are you selling your soul to pressures that will never give you your time back? What do you need to do that you are scared todo because it would turn your entire life upside down? 
+Where are you selling yourself short? Where are you selling your soul to pressures that will never give you your time back? What do you need to do that you are scared to do because it would turn your entire life upside down? 
 <br>
 <br>
 When you sit down with a bit of solitude and beg to be shown the next step, not out of false pretense but out of sincere yearning, the answer will come. 
 <br>
 <br>
-It will come, however, most certainly in a form that shakes and scolds your ego and anticipates the fact that part of you, the current part of you will want nothing more than to retreat and soothe in your typical way. You will probably do so as well but at some point, when the days are a bit clearer and less dire, you say it is then when you will depart and make that move. 
+Yet it will come, however, in a form that shakes and scolds you; that anticipates the fact that part of you will want nothing more than to retreat and soothe in your most typical way. So you'll probably run, thinking that this is how you always have been and will continue to be. When the days are a bit clearer and less dire, you say it is then when you will step forward and make that move. Not a moment earlier, and not a moment later.
 <br>
 <br>
 This is a trick. It is a game that most fail at in the long run because in reality there is never a good time to turn your life upside down. There is never a time to leave and risk all you have supposedly built. 
 <br>
 <br>
-You have plenty of excuses and plenty of things on the line. You can play this game and you still may come out on top: more power to you. But, be careful - you cannot afford to let your love and curiosity slip away.
+You have plenty of excuses and plenty of things on the line. You can play this game, but be careful - you cannot afford to let your love and curiosity slip away.
 <br>
 <br>
-Don't expect other people to understand. Don't even expect yourself to understand. In many ways you are not here to plan your life, if you were you would likely plan it just like everyone else or never live up to your potential out of fear. 
+Don't expect other people to understand. Don't even expect yourself to understand. In many ways, you are not here to plan your life, and if you were you would likely plan it so naively; just in the perfect way so that you dodged your greatest asset of the unknown - that one thing that turns you into the person you didn't think was possible.
 <br>
 <br>
-You are here to listen to that voice and that vision. This is nothing less than a midlife crisis and the more you have these at a young age the better because most won't face one until they are forty. 
+You are here to listen to that voice and that vision. You are here to listen and follow that crazy and quiet idea in your head and so this is nothing short of a midlife crisis. The more you have these at a young age the better because they are the wake-up calls that most people won't face one until they are forty; till they have spent the greater part of their life and their foundation on things that likely didn't pan out how they'd hoped.
 <br>
 <br>
-It is this crisis, this destruction of who you thought you were and where you were going that is so beautiful. For it is the fire that allows the undergrowth to emerge from the wreckage of the past. 
+It is this crisis, this destruction of who you thought you were and where you were going that is so beautiful. For it is the fire that allows the undergrowth to emerge from the deadwood of the past. 
 <br>
 <br>
-I know you are scared. I know you are scared because we all are. This is it though. This is your life, and in your situation, you can't blame anyone but yourself if it fails to be all it can be. 
+I know you are scared. I know you are scared because we all are; because I am fucking scared. This is it though. This is your life, and in your situation, you can't blame anyone but yourself if it fails to be all it can be. 
 <br>
 <br>
-You can play this cat and mouse game for a couple more years if that's what you think is necessary but don't you dare lock yourself into anything that keeps you from truly going inside. In the meantime, sort yourself out the best you can and get help from others in whatever way you can. Go serve other people and beings, walk through the hills, and minimize the harm you are having on the earth. 
+You can play this cat and mouse game for a couple more years if that's what you think is necessary but don't you dare lock yourself into anything that keeps you from truly going inside. In the meantime, sort yourself out the best you can and get help from others in whatever way you can. Go serve other people and beings, walk through the hills, and minimize the harm you cause. 
 <br>
 <br>
 You are facing this terror because you are on a brink and that is exactly where you need to stay if you don't want to forget and leave yourself behind. 
 <br>
 <br>
-Today is a good day.
+Today is a good day. A day that has nothing set in stone.

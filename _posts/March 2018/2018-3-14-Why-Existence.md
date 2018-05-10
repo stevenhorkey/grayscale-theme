@@ -6,7 +6,7 @@ image: 'https://images.unsplash.com/photo-1504258817854-05d5fa980fcb?ixlib=rb-0.
 alt-image: 'Photo by Samuel Zeller on Unsplash'
 photographer: 'Samuel Zeller'
 category: [Spirituality, Philosophy, Science]
-description: 'What must you do now so that the "you" in the future does not hold the same regret as you do currently? Or, said in another way, what do you have to do to make your future self-proud?What are the first steps towards making those things happen? Can you do at least that?'
+description: 'People often dismiss philosophy as impractical jargon yet fail to see how it is at the foundation of their life...'
 ---
 Why existence?
 <br>
