@@ -31,5 +31,5 @@ Deployed on Firebase
 ## Acknowledgments
 
 * Life
-* It's Ups
-* It's Downs
+* Its Ups
+* Its Downs
