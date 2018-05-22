@@ -1,6 +1,6 @@
 # Meme and Meaning Website & Blog
 
-A project investigating life and what it takes to live it well in the midst of all its ups and downs.
+A project investigating life and what it takes to live it well.
 
 ## Getting Started
 
