@@ -2,7 +2,7 @@
 layout: post
 title: 'The Beauty of Existential Crisis'
 link: '#the-beauty-of-existential-crisis'
-image: 'https://images.unsplash.com/photo-1461484261293-7175bb44e871?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=91d921c43f27bffe5848631bbebc2301&auto=format&fit=crop&w=1950&q=80'
+image: '../img/post-images/torch.jpg'
 alt-image: 'Photo by Igor Lepilin on Unsplash'
 photographer: 'Igor Lepilin'
 category: [Spirituality, Psychology]

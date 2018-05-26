@@ -3,7 +3,7 @@ layout: post
 title: 'The Meta-myth'
 link: '#the-meta-myth'
 date: 2018-03-1
-image: 'https://images.unsplash.com/photo-1475598322381-f1b499717dda?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cb49f991ce8dd947b45ccd1bd905ec8c&auto=format&fit=crop&w=2855&q=80'
+image: '../img/post-images/lava-water.jpg'
 alt-image: 'Photo by Buzz Anderson on Unsplash'
 photographer: 'Buzz Anderson'
 category: [Mythology, Psychology]

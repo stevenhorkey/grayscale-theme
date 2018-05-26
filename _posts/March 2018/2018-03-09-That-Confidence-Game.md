@@ -2,7 +2,7 @@
 layout: post
 title: 'That Confidence Game'
 link: '#that-confidence-game'
-image: 'http://4.bp.blogspot.com/-4T1E7xnPnt4/UziJAk8jC8I/AAAAAAAAMX4/M3BdHJfCzgY/s1600/Gypsy-with-Cigarette-(1862)-Manet.jpg'
+image: '../img/post-images/woman-horse.jpg'
 alt-image: 'Gypsy with a Cigarette by Édouard Manet.'
 photographer: 'Édouard Manet'
 category: [Emotions, Psychology]

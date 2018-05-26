@@ -3,7 +3,7 @@ layout: post
 title: 'Ne te Quaesiveris Extra'
 link: '#Ne-te-Quaesiveris-Extra'
 date: 2018-02-25
-image: 'https://images.unsplash.com/photo-1431629452562-165c8f49fc97?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9bcd0ad4b279fda9f18a1be16cb6ca52&auto=format&fit=crop&w=1950&q=80'
+image: '../img/post-images/ocean-hike.jpg'
 alt-image: 'Photo by Stefan Kunze on Unsplash'
 photographer: 'Stefan Kunze'
 category: [Spirituality,Psychology]

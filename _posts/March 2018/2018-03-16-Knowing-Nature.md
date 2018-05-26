@@ -2,7 +2,7 @@
 layout: post
 title: 'Knowing Nature'
 link: '#Knowing-Nature'
-image: 'https://images.unsplash.com/photo-1474524955719-b9f87c50ce47?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c83ef66968ed8c6a5c1ac1111ee78c1e&auto=format&fit=crop&w=1952&q=80'
+image: '../img/post-images/sunset-beach.jpg'
 alt-image: 'Photo by Frank McKenna on Unsplash'
 photographer: 'Frank McKenna'
 category: [Spirituality, Philosophy, Science]

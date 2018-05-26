@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'There is Nothing to Hold On To'
 link: '#there-is-nothing-to-hold-on-to'
-image: 'https://images.unsplash.com/photo-1414638032997-ce7a3a24fd8d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3749bea46178102118dcb35111699af7&auto=format&fit=crop&w=2342&q=80'
+image: '../img/post-images/man-beach-pollution.jpg'
 alt-image: 'Photo by Witch Kiki on Pixabay'
 photographer: 'Witch Kiki'
 category: [Spirituality, Emotions, Belief]

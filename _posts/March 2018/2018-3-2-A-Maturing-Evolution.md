@@ -3,7 +3,7 @@ layout: post
 title: 'A Maturing Evolution'
 link: '#a-maturing-evolution'
 date: 2018-03-2
-image: 'https://images.unsplash.com/photo-1458301661715-1ab7b95a395c?ixlib=rb-0.3.5&s=18610fe57ffe91b2aca4debb4df88bf5&auto=format&fit=crop&w=2847&q=80'
+image: '../img/post-images/snow-mountain.jpg'
 alt-image: 'Photo by Sam Sommer on Unsplash'
 photographer: 'Sam Sommer'
 category: [Psychology, Spirituality]

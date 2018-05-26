@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Mound'
 link: '#beyond-the-mound'
-image: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Rabbits_playing_and_eating_outside_their_burrow._Etching_by_Wellcome_V0021563.jpg'
+image: '../img/post-images/rabbits-painting.jpg'
 alt-image: 'Rabbits playing and eating outside their burrow. Etching by W-S Howitt, ca 1798.'
 photographer: 'W-S Howitt'
 category: [Psychology, Systems]

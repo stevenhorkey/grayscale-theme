@@ -2,7 +2,7 @@
 layout: post
 title: 'Why existence'
 link: '#why-existence'
-image: 'https://images.unsplash.com/photo-1504258817854-05d5fa980fcb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=647b0b62d9a293880c0fbcf043fa7314&auto=format&fit=crop&w=2734&q=80'
+image: '../img/post-images/fork-ocean.jpg'
 alt-image: 'Photo by Samuel Zeller on Unsplash'
 photographer: 'Samuel Zeller'
 category: [Spirituality, Philosophy, Science]

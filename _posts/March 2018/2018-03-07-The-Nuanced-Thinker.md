@@ -2,7 +2,7 @@
 layout: post
 title: 'The Nuanced Thinker'
 link: '#the-nuanced-thinker'
-image: 'https://upload.wikimedia.org/wikipedia/commons/1/1e/ABEL_-_Figure_Kneeling_in_Prayer.jpg'
+image: '../img/post-images/prayer-painting.jpg'
 alt-image: 'Figure kneeling in prayer, 1856, by Francois-Barthelemy-Marius Abel (1832-1870).'
 photographer: 'Francois-Barthelemy-Marius Abel'
 category: [Philosophy, Psychology]

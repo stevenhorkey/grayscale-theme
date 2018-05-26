@@ -2,7 +2,7 @@
 layout: post
 title: 'See Through Yourself To See the Person You May Become'
 link: '#see-through-yourself'
-image: 'https://images.unsplash.com/photo-1488279790500-92397988c0c1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=00270098dddec33ea28c72cef26107ea&auto=format&fit=crop&w=1952&q=80'
+image: '../img/post-images/forest-fog.jpg'
 alt-image: 'Photo by Amund Røed on Unsplash'
 photographer: 'Amund Røed'
 category: [Emotions, Psychology]

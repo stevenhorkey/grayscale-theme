@@ -3,7 +3,7 @@ layout: post
 title: 'Shedding the Mange'
 link: '#shedding-the-mange'
 date: 2018-03-3
-image: 'https://images.unsplash.com/photo-1495313378299-84a779ccc4b2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3eb5d138771abd1b4831b35e87c57ba5&auto=format&fit=crop&w=1950&q=80'
+image: '../img/post-images/parachute.jpg'
 alt-image: 'Photo by Mickael Tournier on Unsplash'
 photographer: 'Mickael Tournier'
 category: [Psychology, Emotions, Purpose]

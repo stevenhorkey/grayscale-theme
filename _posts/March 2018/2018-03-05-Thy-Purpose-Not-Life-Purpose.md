@@ -3,7 +3,7 @@ layout: post
 title: 'Thy Purpose, Not Life Purpose'
 link: '#thy-purpose-not-life-purpose'
 date: 2018-03-5
-image: 'https://images.unsplash.com/photo-1502178808765-43ca75578daf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=470c762246e89888dabe1348327e4f7a&auto=format&fit=crop&w=1950&q=80'
+image: '../img/post-images/woman-hammock.jpg'
 alt-image: 'Photo by Thanh Tran on Unsplash'
 photographer: 'Thanh Tran'
 category: [Purpose]

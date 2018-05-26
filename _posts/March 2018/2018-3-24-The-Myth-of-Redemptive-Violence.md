@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Redemptive Violence?'
 link: '#redemptive-violence'
-image: '../../img/tmorv.jpg'
+image: '../img/post-images/thinker-riot.jpg'
 alt-image: 'Photo by Engin Akyurt on Pixabay'
 photographer: 'Engin Akyurt'
 category: [Psychology, Life-Style]
