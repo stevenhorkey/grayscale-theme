@@ -7,6 +7,7 @@ alt-image: 'Rabbits playing and eating outside their burrow. Etching by W-S Howi
 photographer: 'W-S Howitt'
 category: [Psychology, Systems]
 description: "For there is this ebb and flow in nature. We must push our luck and venture to retrieve that which will build us up before the next wave crashes down. Nothing else provides the greatest gift we can muster: meaning: the reason for being despite all its comings and goings."
+podcast: 'https://pinecast.com/player/2ef57d00-d85b-4c73-8d7f-80341109fba0?theme=minimal'
 ---
 
 The pendulum swings as it always has between the conservative and progressive forces of the universe.

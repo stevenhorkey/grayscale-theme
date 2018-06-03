@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Getting Started'
 link: '#getting-started'
-image: 'https://images.unsplash.com/photo-1511576661531-b34d7da5d0bb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7c9c876925362a7623419f83c66482d8&auto=format&fit=crop&w=1950&q=80'
+image: '../img/post-images/road.jpg'
 alt-image: 'Photo by Witch Kiki on Unsplash'
 photographer: 'Witch Kiki'
 category: []

@@ -8,6 +8,7 @@ alt-image: 'Photo by Sam Sommer on Unsplash'
 photographer: 'Sam Sommer'
 category: [Psychology, Spirituality]
 description: 'What if men and women saw each other as the people they could become, instead of the people that they currently are.'
+podcast: 'https://pinecast.com/player/4162fc5c-2165-4969-b48e-fb15401956c9?theme=minimal'
 ---
 
 If man knew himself and his actual possibilities, what then? What if he became aware of the things which he does not know, or cannot know from the state he is in? These are valuable questions, first and foremost because this is the condition that most of us find ourselves in. So, perhaps this is best left to the psychologists, *right*?

@@ -7,6 +7,7 @@ alt-image: 'Figure kneeling in prayer, 1856, by Francois-Barthelemy-Marius Abel 
 photographer: 'Francois-Barthelemy-Marius Abel'
 category: [Philosophy, Psychology]
 description: "What makes someone a nuanced thinker; someone who can really tease the torn from the tied and the wheat from the chaff?"
+podcast: 'https://pinecast.com/player/74d2fddc-e046-4cb4-adda-891710d520c4?theme=minimal'
 ---
 What makes someone a nuanced thinker, someone who can really tease the torn from the tied and the wheat from the chaff?
 <br>

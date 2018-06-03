@@ -7,6 +7,7 @@ alt-image: 'Gypsy with a Cigarette by Édouard Manet.'
 photographer: 'Édouard Manet'
 category: [Emotions, Psychology]
 description: "The confidence you seek cannot help you in the same way the cart cannot pull the horse. Just like most good things in life, it comes through the method which tries the least to achieve it. The method that involves having bigger things on your mind than the outcome that can be prestigiously shown."
+podcast: 'https://pinecast.com/player/1ce2e511-42bc-4880-8ef1-5adb74fe666b?theme=minimal'
 ---
 
 How does one attain confidence? That holy grail of personal esteem?

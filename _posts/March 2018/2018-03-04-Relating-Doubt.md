@@ -8,6 +8,7 @@ alt-image: 'Photo by Yaoqi LAI on Unsplash'
 photographer: 'Yaoqi LAI'
 category: [Emotions, Purpose]
 description: "You don't have this thing figured out and as long as you can keep your wits about you and see that ahead before all you say, you can have faith that you will settle into the correct path. Some may say this art of yours as some sort of arrogance, and some may see it as a phase. In either case, wish them well."
+podcast: 'https://pinecast.com/player/3131e74a-4353-49e8-8848-abcae0143c5b?theme=minimal'
 ---
 When will you reach that point where you no longer care? Where can you unhook from the concerns of others? You are afraid to appear lofty yet you know that this is not your intention. For there are more questions than answers here, and maybe no answers at all.
 <br>

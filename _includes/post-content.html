@@ -46,10 +46,9 @@
             <br>
             <div class="post-display">
                 {% for post in site.posts %}
-                    <article data-aos="flip-up" class="archive-item all-item col-md-4 col-sm-6" style="background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('{{ post.image }}');">
-                        
-                        <h5 class="post-img-div"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
-                    </article>
+                    <a href="{{ site.baseurl }}{{ post.url }}"><article data-aos="flip-up" class="archive-item all-item col-md-4 col-sm-6" style="background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('{{ post.image }}');">
+                        <h5 class="post-img-div">{{post.title}}</h5>
+                    </article></a>
                 {% endfor %}
             </div>
             <!-- Begin MailChimp Signup Form -->

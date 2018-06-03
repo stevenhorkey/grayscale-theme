@@ -7,6 +7,7 @@ alt-image: 'Photo by Frank McKenna on Unsplash'
 photographer: 'Frank McKenna'
 category: [Spirituality, Philosophy, Science]
 description: 'Put aside all your presuppositions, put aside what you think about nature and look upon her for the first time. The tragedy of the modern world is that we have traded in our humble ignorance for nothing other than a reductionist game of words and symbols.'
+podcast: 'https://pinecast.com/player/7bae10d0-84de-4405-817a-0bf19d0d8bf0?theme=minimal'
 ---
 
 

@@ -8,6 +8,7 @@ alt-image: 'Photo by Buzz Anderson on Unsplash'
 photographer: 'Buzz Anderson'
 category: [Mythology, Psychology]
 description: 'This journey you wish to embark on is well-known, yet not well trodden. For this is precisely the point, to enter into the unknown, the place you least want to look.'
+podcast: 'https://pinecast.com/player/1fa8b815-0598-4d54-b28b-c0efc85375d8?theme=minimal'
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Heroesjourney.svg" width="300" height="300" style="display:block;margin:0 auto;">

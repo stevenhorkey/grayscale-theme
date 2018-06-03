@@ -8,6 +8,8 @@ alt-image: 'Photo by Mickael Tournier on Unsplash'
 photographer: 'Mickael Tournier'
 category: [Psychology, Emotions, Purpose]
 description: 'If you are going to do something, you might as well go all in and do it well. The ironic thing is that people respect those who humbly own what they do 100% - even if they fail to find a fan.'
+podcast: 'https://pinecast.com/player/94623462-8991-4400-8654-cf27ffe3cefe?theme=minimal'
+
 ---
 What do you need from me today?
 <br>

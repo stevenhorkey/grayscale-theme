@@ -3,7 +3,7 @@ published: false
 layout: post
 title: 'What is Needed for Growth'
 link: '#what-is-needed-for-growth'
-image: '../img/post-images/beach-trees.jpg'
+image: '../img/post-images/road.jpg'
 alt-image: 'Photo by Alex Iby on Unsplash'
 photographer: 'Alex Iby'
 category: [Spirituality, Psychology, Emotions]

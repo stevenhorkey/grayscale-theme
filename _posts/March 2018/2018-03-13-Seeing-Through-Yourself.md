@@ -7,6 +7,7 @@ alt-image: 'Photo by Amund Røed on Unsplash'
 photographer: 'Amund Røed'
 category: [Emotions, Psychology]
 description: "What must you do now so that you don't hold the same regrets in the future? Or, said in another way, what do you have to do to make your future self-proud? What are the first steps towards making those things happen? Can you do at least that?"
+podcast: 'https://pinecast.com/player/f0185bce-1db9-4082-9076-c7ea38abc940?theme=minimal'
 ---
 The depression that creeps in is a product of the fog. The vague melding of all the directions and decisions you face in every moment.
 <br>

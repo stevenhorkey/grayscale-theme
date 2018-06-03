@@ -7,6 +7,7 @@ alt-image: 'Photo by Samuel Zeller on Unsplash'
 photographer: 'Samuel Zeller'
 category: [Spirituality, Philosophy, Science]
 description: 'People often dismiss philosophy as impractical jargon yet fail to see how it is at the foundation of their life...'
+podcast: 'https://pinecast.com/player/b20a8153-decf-4e6a-a850-d68239e50207?theme=minimal'
 ---
 Why existence?
 <br>

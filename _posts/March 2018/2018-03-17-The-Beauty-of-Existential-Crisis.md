@@ -7,6 +7,7 @@ alt-image: 'Photo by Igor Lepilin on Unsplash'
 photographer: 'Igor Lepilin'
 category: [Spirituality, Psychology]
 description: 'Though it is terrifying, there is something so inextricably beautiful about doubt. And not just any doubt per se, but the doubt that leads you to question the very foundations of your life.'
+podcast: 'https://pinecast.com/player/e7fe7490-cf15-4c62-9b8b-92e60e4a94a9?theme=minimal'
 ---
 
 Though it is terrifying, there is something so inextricably beautiful about doubt. And not just any doubt per se, but the doubt that leads you to question the very foundations of your life.

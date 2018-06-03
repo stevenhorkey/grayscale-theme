@@ -8,6 +8,7 @@ alt-image: 'Photo by Alex Iby on Unsplash'
 photographer: 'Alex Iby'
 category: [Spirituality, Psychology]
 description: 'We needs more than we can muster. We needs skills and a profound sense of curiosity; a faith in congruence : the alignment of our actions and our values. '
+podcast: 'https://pinecast.com/player/c83ad0ea-15bb-4de8-be42-46e8c4939381?theme=minimal'
 ---
 We must not merely intuit our present situation and all it entails, we must fully understand it on both an experiential and conceptual level if we are to go beyond where we are now.
 <br>
