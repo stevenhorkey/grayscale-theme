@@ -38,5 +38,5 @@ ul.banner-social-buttons li {
 }
 
 .email-title {
-    color: #F09E55;
+    color: var(--mm-orange);
 }

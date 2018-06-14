@@ -5,7 +5,7 @@ section #about {
 }
 dl {
     font-size: 18px;
-    color: #efecdb;
+    color: var(--mm-white);
     text-align: justify;
 }
 dd{

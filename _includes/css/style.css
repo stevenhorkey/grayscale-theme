@@ -1,3 +1,12 @@
+/* MM CSS */
+
+/* Variables */
+:root {
+    --mm-orange: #F09E55;
+    --mm-white: #efecdb;
+}
+
+/* Main */
 html {
     width: 100%;
     height: 100%;
@@ -26,7 +35,6 @@ body {
     clear: both;
     display: table;
 }
-
 h1,
 h2,
 h3,
@@ -38,23 +46,27 @@ h6 {
     font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;    
     font-weight: 700;
     letter-spacing: 1px;
-    color: #efecdb;
+    color: var(--mm-white);
 }
-
 p {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
-    color: #efecdb;
+    color: var(--mm-white);
 }
 blockquote>p{
     color: black;
 }
 
-h2 {
-    color: #efecdb;
+.text-white {
+    color: var(--mm-white);
 }
-
+.text-orange {
+    color: var(--mm-orange);
+}
+.text-black {
+    color: black;
+}
 .indent {
     text-indent: 2em;
 }
@@ -80,7 +92,7 @@ h2 {
 }
 
 a {
-    color: #F09E55;
+    color: var(--mm-orange);
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -89,19 +101,12 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #F09E55;
+    color: var(--mm-orange);
 }
 
 .light {
     font-weight: 400;
 }
-
-
-
-
-
-
-
 /* @-webkit-keyframes pulse {    
     0 {
         -webkit-transform: scale(1);
@@ -151,25 +156,18 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #F09E55;
-    color: #F09E55;
+    border: 1px solid var(--mm-orange);
+    color: var(--mm-orange);
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #F09E55;
+    border: 1px solid var(--mm-orange);
     outline: 0;
     color: black;
-    background-color: #F09E55;
+    background-color: var(--mm-orange);
 }
-
-
-
-
-/* Contact Form */
-
-
 
 form {
     font-family:'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
@@ -177,14 +175,14 @@ form {
     /* background-color: grey; */
     text-align: center;
     font-weight: 300;
-    color: #efecdb;
+    color: var(--mm-white);
 }
 
 .input {
     margin: 0px 0;
     width: 100%;
     border-radius: 3px;
-    background-color: #f5f3ea;
+    background-color: #fcfcfc;
     color: black;
     font-weight: 400;
     border: none;
@@ -203,7 +201,7 @@ textarea {
 
 input[type = submit] {
     margin: 10px;
-    background-color: #F09E55;
+    background-color: var(--mm-orange);
     border-radius: 5px;
     border:none;
     padding: 8px 24px;
@@ -214,13 +212,13 @@ input[type = submit] {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fcfcfc;
+    background: var(--mm-white);
     background: rgba(255,255,255,.2);
 }
 
 ::selection {
     text-shadow: none;
-    background: #fcfcfc;
+    background: var(--mm-white);
     background: rgba(255,255,255,.2);
 }
 

@@ -14,14 +14,14 @@
 }
 #mc_embed_signup h4{
     margin: 0 0 10px 0;
-    color: #F09E55;
+    color: var(--mm-orange);
     font-size: 36px;
     text-align: center;
     display: block;
 }
 #mc_embed_signup h2{
     margin: 0 0 10px 0;
-    color: #F09E55;
+    color: var(--mm-orange);
     font-size: 22px;
     text-align: center;
     display: block;
@@ -46,7 +46,7 @@
     background-color: #f5f3ea;
 }
 #mc_embed_signup .button {
-    background-color:  #F09E55;
+    background-color:  var(--mm-orange);
     color: black;
     margin-top: 1%;
     border-radius: 2px;

@@ -70,10 +70,10 @@
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #efecdb;
+    border: 2px solid var(--mm-white);
     border-radius: 35px;
     font-size: 40px;
-    color: #efecdb;
+    color: var(--mm-white);
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -83,7 +83,7 @@
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #efecdb;
+    color: var(--mm-white);
     background: rgba(255,255,255,.1);
 }
 

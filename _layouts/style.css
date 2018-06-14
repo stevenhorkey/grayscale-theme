@@ -1,7 +1,9 @@
 {% include css/vendor/bootstrap.min.css %}
+{% include css/vendor/bootstrap4spacing.min.css %}
 {% include css/vendor/typeface.min.css %}
 {% include css/vendor/aos.min.css %}
 
+{% include css/style.min.css %}
 {% include Navbar/nav.min.css %}
 {% include Header/header.min.css %}
 {% include RecentPosts/recent-posts.min.css %}
@@ -12,5 +14,4 @@
 {% include Posts/posts.min.css %}
 {% include PostPage/post-page.min.css %}
 {% include Footer/footer.min.css %}
-{% include css/style.min.css %}
 

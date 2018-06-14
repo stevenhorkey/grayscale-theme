@@ -4,7 +4,7 @@
     min-height: 100vh;
     padding: 100px 0;
     text-align: center;
-    color: #efecdb;
+    color: var(--mm-white);
     background: linear-gradient(rgba(0, 0, 0, 0.397), rgba(0, 0, 0, 0.411)), url(/img/boat-bw-compressed.jpg) no-repeat bottom center fixed;
     background-color: black;
     -webkit-background-size: cover;
@@ -13,7 +13,7 @@
     -o-background-size: cover;
 }
 .category-head{
-    border: #efecdb 2px solid;
+    border: var(--mm-white) 2px solid;
     border-radius: 20px;
     padding: 5px;
     -webkit-transition: all .14s ease-in-out;
