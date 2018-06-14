@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 // jQuery to collapse the navbar on scroll
 $(window).scroll(function() {
     if ($(".navbar").offset().top > 50) {
@@ -34,8 +28,10 @@ jQuery.fn.clickToggle = function(a,b) {
     return this.on("click", cb);
 };
 
+// Hid Cat-items on load
 $('.cat-item').hide();
 
+// handle posts category that is active and which posts show
 $('.category-head').on('click',function(){
     var category = $(this).text();
     
@@ -44,7 +40,6 @@ $('.category-head').on('click',function(){
         $('.category-head').css('background','none');
         $('.category-head.'+category).css('background','black').attr('data','active')
         // console.log($('.category-head.'+category).css('background','black').data().val());
-
         $('.all-item').fadeOut();                
         $('.cat-item').fadeOut();                
         console.log(category);
@@ -53,10 +48,9 @@ $('.category-head').on('click',function(){
         console.log(articles)
         articles.appendTo('.post-display');
         articles.fadeIn();
-    }
-    
-    
+    }  
 });
+// Show all posts on click
 $('.all-posts-show').on('click',function(){
     if ($(this).attr('data') !== 'active'){
         $('.category-head').removeAttr('data');        
@@ -67,7 +61,7 @@ $('.all-posts-show').on('click',function(){
         $('.all-item').fadeIn();    
     }  
 });
-
+// Configure JQuery Display options
 $('.all-posts-btn').css('background','black').attr('data','active')
 $('.category-head').css('background','none') 
 $('.category-head.all-posts-btn').css('background','black')
@@ -76,6 +70,7 @@ $('.all-item').fadeIn();
 $('.brand-logo').hide()
 $('.brand-logo').fadeIn()
 
+// Initialize AOS scroll library
 AOS.init();
 
 // Brand Logo fade Ins

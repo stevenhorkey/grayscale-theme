@@ -1,4 +1,16 @@
-{% include css/bootstrap.min.css %}
-{% include css/typeface.min.css %}
-{% include css/aos.css %}
+{% include css/vendor/bootstrap.min.css %}
+{% include css/vendor/typeface.min.css %}
+{% include css/vendor/aos.min.css %}
+
+{% include Navbar/nav.min.css %}
+{% include Header/header.min.css %}
+{% include RecentPosts/recent-posts.min.css %}
+{% include VidSignup/vid-signup.min.css %}
+{% include About/about.min.css %}
+{% include Contact/contact.min.css %}
+{% include EmailForm/email-form.min.css %}
+{% include Posts/posts.min.css %}
+{% include PostPage/post-page.min.css %}
+{% include Footer/footer.min.css %}
 {% include css/style.min.css %}
+

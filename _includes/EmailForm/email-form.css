@@ -1,0 +1,69 @@
+/* Email Signup Form - MailChimp */
+#mc_embed_signup{
+    background: #000000a1;
+    clear: left;
+    font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 20px;
+    height: fit-content;
+    border-radius: 2px;
+    /* margin: 20px 0; */
+}
+.email-position{
+    position: relative;
+    top: 30px;
+}
+#mc_embed_signup h4{
+    margin: 0 0 10px 0;
+    color: #F09E55;
+    font-size: 36px;
+    text-align: center;
+    display: block;
+}
+#mc_embed_signup h2{
+    margin: 0 0 10px 0;
+    color: #F09E55;
+    font-size: 22px;
+    text-align: center;
+    display: block;
+}
+#mc_embed_signup span p{
+    text-align: center;
+    font-size: 18px;
+    /* display: inline-block; */
+    margin: 0 0 10px 0;
+}
+#mc_embed_signup .indicates-required {
+    /* width: 50% !important; */
+    text-align: left;
+    font-weight: lighter;
+}
+#mc_embed_signup input{
+    /* width: 50% !important; */
+    padding: 4px 0 !important;
+    color: black;
+    font-weight: normal;
+    border-radius: 2px;
+    background-color: #f5f3ea;
+}
+#mc_embed_signup .button {
+    background-color:  #F09E55;
+    color: black;
+    margin-top: 1%;
+    border-radius: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1;
+    width: 100%;
+    /* width: 48% !important; */
+}
+#mc_embed_signup .mc-field-group {
+    padding-bottom: 1%;
+    font-weight: lighter;
+    padding-top: 1%;
+    width: 100%;
+}
+@media screen and (max-width: 991px){
+    .home-signup{
+        margin-top: 50px;
+    }
+}

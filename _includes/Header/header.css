@@ -1,0 +1,78 @@
+.intro {
+    display: table;
+    width: 100%;
+    height: 100vh;
+    padding: 100px 0;
+    text-align: center;
+    color: #efecdb;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1)), url(/img/imgbig.jpg) no-repeat bottom center scroll;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.intro-text{
+    margin: 0;
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+}
+.intro .intro-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.intro .intro-body .brand-heading {
+    font-size: 40px;
+}
+.brand-logo {
+    margin: 6px auto;
+    width: 75%;
+    opacity: 0;
+}
+.brand-logo-ik{
+    margin: 0 auto;
+    width: 76%;
+    opacity: 0;
+}
+
+.brand-logo-cw {
+    margin: 0 auto;
+    width: 76%;
+    opacity: 0;
+}
+
+.intro .intro-body .intro-text {
+    margin-top: 5px;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: bold;
+}
+
+@media(min-width:767px) {
+    .intro {
+        height: 100%;
+        padding: 0;
+    }
+
+    .intro .intro-body .brand-heading {
+        font-size: 100px;
+    }
+
+    .intro .intro-body {
+        font-size: 25px;
+    }
+    .intro-text{
+        font-size: 40px;
+    }
+
+}
+@media screen and (max-width: 1200px){
+    .intro-text{
+        font-size: 4vw !important;
+    }
+}
