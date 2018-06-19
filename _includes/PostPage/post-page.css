@@ -1,5 +1,5 @@
 .post-title{
-    color: #0000009c;
+    color: rgba(0, 0, 0, 0.6);
     padding-bottom: 20px;
 }
 
@@ -63,6 +63,20 @@
 
 .signiture{
     width: 220px;
+}
+
+.share-button{
+    background: grey;
+    width: 100%;
+    display: block;
+    border-radius: 1px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.share-button:hover{
+    color: black;
+    background: var(--mm-orange);
 }
 
 .btn-circle {

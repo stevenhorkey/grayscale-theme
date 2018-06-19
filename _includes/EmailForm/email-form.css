@@ -1,9 +1,9 @@
 /* Email Signup Form - MailChimp */
 #mc_embed_signup{
-    background: #000000a1;
+    background: rgba(0, 0, 0, 0.7);
     clear: left;
     font-family: 'Proxima Nova', 'Lato', 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    padding: 20px;
+    padding: 16px 8px;
     height: fit-content;
     border-radius: 2px;
     /* margin: 20px 0; */
@@ -61,6 +61,12 @@
     font-weight: lighter;
     padding-top: 1%;
     width: 100%;
+}
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: left;
+    padding: 0;
 }
 @media screen and (max-width: 991px){
     .home-signup{
