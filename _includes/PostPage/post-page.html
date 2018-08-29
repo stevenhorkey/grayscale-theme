@@ -23,7 +23,11 @@
                         <div class="col-md-8 col-md-offset-2 ">
                             <div class="post-style">
                                 
-                                <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Published on {{ page.date | date: '%B %d, %Y' }} by Steven Horkey || Photo by {{ page.photographer }}</p>
+                                {% if page.updated %}
+                                    <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Updated on {{ page.updated | date: '%B %d, %Y' }} by Steven Horkey || Photo by {{ page.photographer }}</p>
+                                {% else %}
+                                    <p class="post-meta"><img class="post-headshot" src="../img/steven1.jpg"/>Published on {{ page.date | date: '%B %d, %Y' }} by Steven Horkey || Photo by {{ page.photographer }}</p>
+                                {% endif %}
 
                                 {% if page.video %}
                                 <div class="row">

@@ -74,7 +74,7 @@ $('.brand-logo').fadeIn()
 AOS.init();
 
 // Brand Logo fade Ins
-$('.brand-logo-ik').delay(800).fadeTo(800,1.0);
-$('.brand-logo-cw').delay(1600).fadeTo(800,1.0);
-$('.brand-logo').delay(1900).fadeTo(800,1.0);
+// $('.brand-logo-ik').delay(800).fadeTo(800,1.0);
+// $('.brand-logo-cw').delay(1600).fadeTo(800,1.0);
+$('.brand-logo').delay(800).fadeTo(800,1.0);
 

@@ -12,13 +12,8 @@ Rich Roll
 Alan Watts
 Goenka
 Rupert Spira
-Crowder
-Ben Shapiro
-Ben Rubin
-Stefan Molyneux
 Noam Chomsky
 Sam Harris
-Sam Seder
 Marx
 John Adams
 Thomas Jefferson

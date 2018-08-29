@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Why existence'
+title: 'Why existence?'
 link: '#why-existence'
+updated: 2018-8-2
 image: '../img/post-images/fork-ocean.jpg'
 alt-image: 'Photo by Samuel Zeller on Unsplash'
 photographer: 'Samuel Zeller'
@@ -9,10 +10,10 @@ category: [Spirituality, Philosophy, Science]
 description: 'People often dismiss philosophy as impractical jargon yet fail to see how it is at the foundation of their life...'
 podcast: 'https://pinecast.com/player/b20a8153-decf-4e6a-a850-d68239e50207?theme=minimal'
 ---
-Why existence?
+*Why existence?*
 <br>
 <br>
-People often dismiss philosophy as impractical jargon; seeing it as nothing more than verbose theory by verbose theoriticians.
+People often dismiss philosophy, or more specifically, ontology, epistemology, and metaphysics as impractical jargon; seeing it as nothing more than verbose theory by hopeless theoriticians.
 <br>
 <br>
 These people have a good point because there is plenty of that going on.
